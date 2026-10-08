@@ -1,0 +1,7 @@
+FaF wfjsp22_9.txt 5 956 19.9186 
+FaFM wfjsp22_9.txt 5 979 24.8066 
+FaFMJ wfjsp22_9.txt 5 970 115.306 
+FaFMx2 wfjsp22_9.txt 5 955 154.809 
+TS@FaF wfjsp22_9.txt 5 960 19.9367 
+TS@FaFM wfjsp22_9.txt 5 960 24.8275 
+TSN1@FaFM wfjsp22_9.txt 5 975 24.8207 

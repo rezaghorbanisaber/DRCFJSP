@@ -1,0 +1,7 @@
+FaF wfjsp18_6.txt 5 1114 7.74115 
+FaFM wfjsp18_6.txt 5 1110 16.5096 
+FaFMJ wfjsp18_6.txt 5 1109 55.8419 
+FaFMx2 wfjsp18_6.txt 5 1098 67.6989 
+TS@FaF wfjsp18_6.txt 5 1120 7.7485 
+TS@FaFM wfjsp18_6.txt 5 1105 16.5172 
+TSN1@FaFM wfjsp18_6.txt 5 1134 16.5136 

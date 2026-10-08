@@ -1,0 +1,7 @@
+FaF wfjsp12_3.txt 1 1126 12.0715 
+FaFM wfjsp12_3.txt 1 1125 25.4299 
+FaFMJ wfjsp12_3.txt 1 1135 125.115 
+FaFMx2 wfjsp12_3.txt 1 1099 285.634 
+TS@FaF wfjsp12_3.txt 1 1139 12.0896 
+TS@FaFM wfjsp12_3.txt 1 1132 25.4435 
+TSN1@FaFM wfjsp12_3.txt 1 1135 25.4366 

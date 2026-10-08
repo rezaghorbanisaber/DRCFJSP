@@ -1,0 +1,41 @@
+This is the output of Heuristic Solver for Dual resource constrained flexible job shop Scheduling Problem.
+Input file is: wfjsp2_7.txt
+Method: LBBD_CP_TS
+Seed: 1
+Number of Jobs: 7
+Number of Operations: 22
+Number of Machines: 3
+Number of Operators: 3
+CPU Time: 426.381
+obj: 395
+Best found lower bound:395
+Solver gap (best found lower bound and upper bound difference): Not known
+
+
+Final Solution:
+Job	Machine	Operator	Operation	Start Time	Finish Time
+0	2	1	0	78	168
+0	2	1	1	225	240
+1	2	1	2	40	78
+1	0	0	3	119	214
+1	0	0	4	307	330
+1	2	1	5	343	381
+2	2	1	6	0	40
+2	0	0	7	82	119
+2	0	0	8	214	227
+2	1	0	9	265	307
+3	0	2	10	227	307
+3	0	0	11	330	393
+4	1	2	12	82	161
+4	2	1	13	168	225
+4	1	0	14	227	265
+4	2	1	15	325	343
+5	1	0	16	0	82
+5	1	2	17	161	227
+5	1	2	18	307	365
+6	0	2	19	0	79
+6	2	1	20	240	325
+6	1	2	21	365	395
+
+
+Solution History:

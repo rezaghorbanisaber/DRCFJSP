@@ -1,0 +1,7 @@
+FaF wfjsp13_9.txt 3 993 27.8083 
+FaFM wfjsp13_9.txt 3 1005 39.2443 
+FaFMJ wfjsp13_9.txt 3 979 245.328 
+FaFMx2 wfjsp13_9.txt 3 950 484.148 
+TS@FaF wfjsp13_9.txt 3 1004 27.8317 
+TS@FaFM wfjsp13_9.txt 3 983 39.2631 
+TSN1@FaFM wfjsp13_9.txt 3 993 39.2559 

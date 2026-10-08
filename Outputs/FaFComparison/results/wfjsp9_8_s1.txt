@@ -1,0 +1,7 @@
+FaF wfjsp9_8.txt 1 1406 13.1585 
+FaFM wfjsp9_8.txt 1 1393 34.5936 
+FaFMJ wfjsp9_8.txt 1 1427 95.1334 
+FaFMx2 wfjsp9_8.txt 1 1396 117.754 
+TS@FaF wfjsp9_8.txt 1 1427 13.1651 
+TS@FaFM wfjsp9_8.txt 1 1407 34.6002 
+TSN1@FaFM wfjsp9_8.txt 1 1411 34.5965 

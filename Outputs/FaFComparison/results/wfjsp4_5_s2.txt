@@ -1,0 +1,7 @@
+FaF wfjsp4_5.txt 2 290 0.179666 
+FaFM wfjsp4_5.txt 2 290 0.606863 
+FaFMJ wfjsp4_5.txt 2 290 1.67283 
+FaFMx2 wfjsp4_5.txt 2 290 2.44911 
+TS@FaF wfjsp4_5.txt 2 290 0.180047 
+TS@FaFM wfjsp4_5.txt 2 290 0.60724 
+TSN1@FaFM wfjsp4_5.txt 2 296 0.607127 

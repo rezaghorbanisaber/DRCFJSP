@@ -1,0 +1,7 @@
+FaF wfjsp21_7.txt 3 1054 10.4055 
+FaFM wfjsp21_7.txt 3 1067 17.4367 
+FaFMJ wfjsp21_7.txt 3 1055 364.661 
+FaFMx2 wfjsp21_7.txt 3 1039 261.318 
+TS@FaF wfjsp21_7.txt 3 1065 10.4297 
+TS@FaFM wfjsp21_7.txt 3 1052 17.4538 
+TSN1@FaFM wfjsp21_7.txt 3 1085 17.4482 

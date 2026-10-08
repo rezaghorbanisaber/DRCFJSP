@@ -1,0 +1,7 @@
+FaF wfjsp3_6.txt 5 535 0.254522 
+FaFM wfjsp3_6.txt 5 531 1.48273 
+FaFMJ wfjsp3_6.txt 5 534 2.00301 
+FaFMx2 wfjsp3_6.txt 5 529 3.37819 
+TS@FaF wfjsp3_6.txt 5 532 0.255107 
+TS@FaFM wfjsp3_6.txt 5 529 1.48328 
+TSN1@FaFM wfjsp3_6.txt 5 529 1.4831 

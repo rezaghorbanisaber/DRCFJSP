@@ -1,0 +1,7 @@
+FaF wfjsp18_9.txt 2 962 20.4124 
+FaFM wfjsp18_9.txt 2 979 18.437 
+FaFMJ wfjsp18_9.txt 2 978 54.7835 
+FaFMx2 wfjsp18_9.txt 2 949 112.732 
+TS@FaF wfjsp18_9.txt 2 954 20.419 
+TS@FaFM wfjsp18_9.txt 2 954 18.4439 
+TSN1@FaFM wfjsp18_9.txt 2 987 18.4408 

@@ -1,0 +1,7 @@
+FaF wfjsp17_6.txt 1 1742 11.966 
+FaFM wfjsp17_6.txt 1 1720 19.9274 
+FaFMJ wfjsp17_6.txt 1 1744 72.5338 
+FaFMx2 wfjsp17_6.txt 1 1717 89.5433 
+TS@FaF wfjsp17_6.txt 1 1721 11.9724 
+TS@FaFM wfjsp17_6.txt 1 1720 19.9338 
+TSN1@FaFM wfjsp17_6.txt 1 1752 19.9308 

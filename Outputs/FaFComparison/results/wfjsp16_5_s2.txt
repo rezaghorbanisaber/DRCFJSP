@@ -1,0 +1,7 @@
+FaF wfjsp16_5.txt 2 920 54.242 
+FaFM wfjsp16_5.txt 2 929 37.6951 
+FaFMJ wfjsp16_5.txt 2 935 457.815 
+FaFMx2 wfjsp16_5.txt 2 908 456.46 
+TS@FaF wfjsp16_5.txt 2 932 54.2682 
+TS@FaFM wfjsp16_5.txt 2 932 37.7226 
+TSN1@FaFM wfjsp16_5.txt 2 938 37.7099 

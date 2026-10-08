@@ -1,0 +1,7 @@
+FaF Dauzere_08a.txt 4 2906 58.8221 
+FaFM Dauzere_08a.txt 4 2927 22.197 
+FaFMJ Dauzere_08a.txt 4 2909 98.1819 
+FaFMx2 Dauzere_08a.txt 4 2896 155.142 
+TS@FaF Dauzere_08a.txt 4 2894 58.8391 
+TS@FaFM Dauzere_08a.txt 4 2899 22.2129 
+TSN1@FaFM Dauzere_08a.txt 4 2968 22.2097 

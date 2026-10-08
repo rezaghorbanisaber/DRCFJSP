@@ -1,0 +1,7 @@
+FaF wfjsp11_8.txt 3 1085 10.8048 
+FaFM wfjsp11_8.txt 3 1073 15.0702 
+FaFMJ wfjsp11_8.txt 3 1060 81.7518 
+FaFMx2 wfjsp11_8.txt 3 1039 216.668 
+TS@FaF wfjsp11_8.txt 3 1100 10.8143 
+TS@FaFM wfjsp11_8.txt 3 1095 15.0803 
+TSN1@FaFM wfjsp11_8.txt 3 1109 15.076 

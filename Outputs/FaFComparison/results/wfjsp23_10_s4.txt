@@ -1,0 +1,7 @@
+FaF wfjsp23_10.txt 4 1740 47.3962 
+FaFM wfjsp23_10.txt 4 1755 34.864 
+FaFMJ wfjsp23_10.txt 4 1738 1090.07 
+FaFMx2 wfjsp23_10.txt 4 1730 604.529 
+TS@FaF wfjsp23_10.txt 4 1756 47.4475 
+TS@FaFM wfjsp23_10.txt 4 1756 34.9116 
+TSN1@FaFM wfjsp23_10.txt 4 1761 34.8987 

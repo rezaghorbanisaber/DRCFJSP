@@ -1,0 +1,7 @@
+FaF wfjsp24_6.txt 5 1499 63.7389 
+FaFM wfjsp24_6.txt 5 1513 41.0647 
+FaFMJ wfjsp24_6.txt 5 1497 441.911 
+FaFMx2 wfjsp24_6.txt 5 1493 275.394 
+TS@FaF wfjsp24_6.txt 5 1497 63.7763 
+TS@FaFM wfjsp24_6.txt 5 1497 41.1075 
+TSN1@FaFM wfjsp24_6.txt 5 1510 41.0935 

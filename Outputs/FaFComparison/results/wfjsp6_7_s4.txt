@@ -1,0 +1,7 @@
+FaF wfjsp6_7.txt 4 851 2.10268 
+FaFM wfjsp6_7.txt 4 843 9.467 
+FaFMJ wfjsp6_7.txt 4 888 8.73931 
+FaFMx2 wfjsp6_7.txt 4 861 17.0464 
+TS@FaF wfjsp6_7.txt 4 855 2.1045 
+TS@FaFM wfjsp6_7.txt 4 855 9.46874 
+TSN1@FaFM wfjsp6_7.txt 4 852 9.46801 

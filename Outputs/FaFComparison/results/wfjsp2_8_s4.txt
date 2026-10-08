@@ -1,0 +1,7 @@
+FaF wfjsp2_8.txt 4 417 0.070568 
+FaFM wfjsp2_8.txt 4 417 0.428454 
+FaFMJ wfjsp2_8.txt 4 439 2.096 
+FaFMx2 wfjsp2_8.txt 4 417 1.68228 
+TS@FaF wfjsp2_8.txt 4 415 0.070879 
+TS@FaFM wfjsp2_8.txt 4 415 0.428778 
+TSN1@FaFM wfjsp2_8.txt 4 415 0.428712 

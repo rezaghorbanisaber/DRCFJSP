@@ -1,0 +1,7 @@
+FaF Dauzere_12a.txt 1 2962 38.3236 
+FaFM Dauzere_12a.txt 1 2850 43.1811 
+FaFMJ Dauzere_12a.txt 1 2852 162.851 
+FaFMx2 Dauzere_12a.txt 1 2831 390.882 
+TS@FaF Dauzere_12a.txt 1 2844 38.3477 
+TS@FaFM Dauzere_12a.txt 1 2844 43.2052 
+TSN1@FaFM Dauzere_12a.txt 1 2906 43.1943 

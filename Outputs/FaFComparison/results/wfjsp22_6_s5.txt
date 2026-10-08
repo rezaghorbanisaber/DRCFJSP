@@ -1,0 +1,7 @@
+FaF wfjsp22_6.txt 5 1123 9.26841 
+FaFM wfjsp22_6.txt 5 1135 25.8479 
+FaFMJ wfjsp22_6.txt 5 1120 228.762 
+FaFMx2 wfjsp22_6.txt 5 1120 178.091 
+TS@FaF wfjsp22_6.txt 5 1126 9.29089 
+TS@FaFM wfjsp22_6.txt 5 1120 25.8733 
+TSN1@FaFM wfjsp22_6.txt 5 1135 25.8579 

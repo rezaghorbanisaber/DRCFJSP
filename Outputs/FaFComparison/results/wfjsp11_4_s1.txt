@@ -1,0 +1,7 @@
+FaF wfjsp11_4.txt 1 1185 13.9303 
+FaFM wfjsp11_4.txt 1 1177 25.9951 
+FaFMJ wfjsp11_4.txt 1 1191 97.8104 
+FaFMx2 wfjsp11_4.txt 1 1158 302.98 
+TS@FaF wfjsp11_4.txt 1 1193 13.9419 
+TS@FaFM wfjsp11_4.txt 1 1169 26.008 
+TSN1@FaFM wfjsp11_4.txt 1 1209 26.0031 

@@ -1,0 +1,7 @@
+FaF wfjsp14_3.txt 1 866 22.1076 
+FaFM wfjsp14_3.txt 1 864 52.3691 
+FaFMJ wfjsp14_3.txt 1 896 80.5776 
+FaFMx2 wfjsp14_3.txt 1 848 363.992 
+TS@FaF wfjsp14_3.txt 1 881 22.1283 
+TS@FaFM wfjsp14_3.txt 1 869 52.3857 
+TSN1@FaFM wfjsp14_3.txt 1 872 52.383 

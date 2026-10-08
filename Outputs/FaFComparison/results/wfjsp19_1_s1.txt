@@ -1,0 +1,7 @@
+FaF wfjsp19_1.txt 1 1216 12.8745 
+FaFM wfjsp19_1.txt 1 1225 12.8174 
+FaFMJ wfjsp19_1.txt 1 1219 50.7303 
+FaFMx2 wfjsp19_1.txt 1 1200 204.222 
+TS@FaF wfjsp19_1.txt 1 1203 12.8872 
+TS@FaFM wfjsp19_1.txt 1 1203 12.8275 
+TSN1@FaFM wfjsp19_1.txt 1 1240 12.8244 

@@ -1,0 +1,7 @@
+FaF wfjsp5_9.txt 2 614 0.661269 
+FaFM wfjsp5_9.txt 2 617 2.44614 
+FaFMJ wfjsp5_9.txt 2 614 3.97908 
+FaFMx2 wfjsp5_9.txt 2 606 15.3961 
+TS@FaF wfjsp5_9.txt 2 606 0.662341 
+TS@FaFM wfjsp5_9.txt 2 603 2.44716 
+TSN1@FaFM wfjsp5_9.txt 2 616 2.44672 

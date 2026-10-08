@@ -1,0 +1,52 @@
+This is the output of Heuristic Solver for Dual resource constrained flexible job shop Scheduling Problem.
+Input file is: wfjsp4_2.txt
+Method: FaFM_45_75_900
+Seed: 3
+Number of Jobs: 10
+Number of Operations: 33
+Number of Machines: 5
+Number of Operators: 5
+CPU Time: 11.6727
+obj: 357
+Best found lower bound:0
+Solver gap (best found lower bound and upper bound difference): Not known
+
+
+Final Solution:
+Job	Machine	Operator	Operation	Start Time	Finish Time
+0	4	1	0	53	133
+0	2	4	1	142	216
+1	2	4	2	216	240
+1	0	2	3	240	275
+1	2	2	4	275	292
+2	3	0	5	0	20
+2	0	2	6	70	141
+2	1	3	7	156	166
+2	3	0	8	168	243
+3	0	2	9	30	70
+3	1	3	10	210	262
+3	2	2	11	292	309
+4	1	3	12	13	85
+4	1	3	13	85	156
+4	4	1	14	220	276
+4	3	3	15	276	348
+5	0	2	16	0	30
+5	1	3	17	166	210
+5	0	2	18	340	357
+6	4	1	19	0	53
+6	2	4	20	58	142
+6	4	1	21	276	357
+7	2	4	22	0	58
+7	3	0	23	100	168
+7	0	4	24	275	340
+7	1	0	25	340	357
+8	1	3	26	0	13
+8	4	1	27	133	220
+8	2	2	28	309	334
+9	3	0	29	20	100
+9	0	2	30	141	234
+9	3	0	31	243	260
+9	1	0	32	262	330
+
+
+Solution History:

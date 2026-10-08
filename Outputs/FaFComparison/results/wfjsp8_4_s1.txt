@@ -1,0 +1,7 @@
+FaF wfjsp8_4.txt 1 1207 16.6524 
+FaFM wfjsp8_4.txt 1 1221 8.76243 
+FaFMJ wfjsp8_4.txt 1 1255 52.9474 
+FaFMx2 wfjsp8_4.txt 1 1208 99.5012 
+TS@FaF wfjsp8_4.txt 1 1240 16.658 
+TS@FaFM wfjsp8_4.txt 1 1245 8.76793 
+TSN1@FaFM wfjsp8_4.txt 1 1233 8.76493 

@@ -1,0 +1,7 @@
+FaF Dauzere_11a.txt 3 2882 95.0187 
+FaFM Dauzere_11a.txt 3 2910 44.3798 
+FaFMJ Dauzere_11a.txt 3 2930 41.2519 
+FaFMx2 Dauzere_11a.txt 3 2874 186.911 
+TS@FaF Dauzere_11a.txt 3 2889 95.0347 
+TS@FaFM Dauzere_11a.txt 3 2892 44.3951 
+TSN1@FaFM Dauzere_11a.txt 3 2963 44.3943 

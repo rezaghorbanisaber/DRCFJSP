@@ -1,0 +1,7 @@
+FaF wfjsp14_6.txt 1 937 27.2939 
+FaFM wfjsp14_6.txt 1 949 18.6828 
+FaFMJ wfjsp14_6.txt 1 951 292.957 
+FaFMx2 wfjsp14_6.txt 1 923 161.783 
+TS@FaF wfjsp14_6.txt 1 959 27.3118 
+TS@FaFM wfjsp14_6.txt 1 959 18.7038 
+TSN1@FaFM wfjsp14_6.txt 1 950 18.6927 

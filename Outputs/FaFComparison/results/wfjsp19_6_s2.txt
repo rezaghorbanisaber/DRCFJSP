@@ -1,0 +1,7 @@
+FaF wfjsp19_6.txt 2 1173 16.0059 
+FaFM wfjsp19_6.txt 2 1193 8.56142 
+FaFMJ wfjsp19_6.txt 2 1184 70.3625 
+FaFMx2 wfjsp19_6.txt 2 1176 148.976 
+TS@FaF wfjsp19_6.txt 2 1165 16.0142 
+TS@FaFM wfjsp19_6.txt 2 1165 8.56969 
+TSN1@FaFM wfjsp19_6.txt 2 1209 8.56591 

@@ -1,0 +1,1834 @@
+chain	wfjsp1_3.txt 1	66273400	3	node3533.doduo.os	0
+chain	wfjsp1_1.txt 1	66273398	1	node3505.doduo.os	0
+chain	wfjsp1_2.txt 1	66273399	2	node3522.doduo.os	0
+chain	wfjsp1_5.txt 1	66273402	5	node3564.doduo.os	0
+chain	wfjsp1_4.txt 1	66273401	4	node3551.doduo.os	0
+chain	wfjsp1_6.txt 1	66273408	6	node3505.doduo.os	0
+chain	wfjsp1_9.txt 1	66273411	9	node3522.doduo.os	0
+chain	wfjsp1_10.txt 1	66273412	10	node3533.doduo.os	0
+chain	wfjsp1_7.txt 1	66273409	7	node3512.doduo.os	0
+chain	wfjsp2_2.txt 1	66273414	12	node3564.doduo.os	0
+chain	wfjsp1_8.txt 1	66273410	8	node3512.doduo.os	0
+chain	wfjsp2_1.txt 1	66273413	11	node3551.doduo.os	0
+chain	wfjsp2_5.txt 1	66273425	15	node3512.doduo.os	0
+chain	wfjsp2_3.txt 1	66273423	13	node3505.doduo.os	0
+chain	wfjsp2_9.txt 1	66273429	19	node3564.doduo.os	0
+chain	wfjsp2_6.txt 1	66273426	16	node3522.doduo.os	0
+chain	wfjsp2_7.txt 1	66273427	17	node3533.doduo.os	0
+chain	wfjsp2_8.txt 1	66273428	18	node3551.doduo.os	0
+chain	wfjsp2_4.txt 1	66273424	14	node3512.doduo.os	0
+chain	wfjsp2_10.txt 1	66273431	20	node3505.doduo.os	0
+chain	wfjsp3_3.txt 1	66273434	23	node3533.doduo.os	0
+chain	wfjsp3_1.txt 1	66273432	21	node3512.doduo.os	0
+chain	wfjsp3_5.txt 1	66273436	25	node3564.doduo.os	0
+chain	wfjsp3_2.txt 1	66273433	22	node3522.doduo.os	0
+chain	wfjsp3_4.txt 1	66273435	24	node3551.doduo.os	0
+chain	wfjsp3_10.txt 1	66273442	30	node3533.doduo.os	0
+chain	wfjsp3_9.txt 1	66273441	29	node3522.doduo.os	0
+chain	wfjsp3_6.txt 1	66273438	26	node3505.doduo.os	0
+chain	wfjsp3_7.txt 1	66273439	27	node3512.doduo.os	0
+chain	wfjsp4_1.txt 1	66273443	31	node3551.doduo.os	0
+chain	wfjsp4_2.txt 1	66273444	32	node3564.doduo.os	0
+chain	wfjsp3_8.txt 1	66273440	28	node3512.doduo.os	0
+chain	wfjsp4_9.txt 1	66273451	39	node3533.doduo.os	0
+chain	wfjsp4_3.txt 1	66273445	33	node3505.doduo.os	0
+chain	wfjsp4_8.txt 1	66273450	38	node3522.doduo.os	0
+chain	wfjsp4_10.txt 1	66273452	40	node3551.doduo.os	0
+chain	wfjsp4_4.txt 1	66273446	34	node3512.doduo.os	0
+chain	wfjsp4_6.txt 1	66273448	36	node3519.doduo.os	0
+chain	wfjsp4_5.txt 1	66273447	35	node3512.doduo.os	0
+chain	wfjsp4_7.txt 1	66273449	37	node3519.doduo.os	0
+chain	wfjsp5_1.txt 1	66273453	41	node3564.doduo.os	0
+chain	wfjsp5_3.txt 1	66273455	43	node3512.doduo.os	0
+chain	wfjsp5_7.txt 1	66273459	47	node3533.doduo.os	0
+chain	wfjsp5_2.txt 1	66273454	42	node3505.doduo.os	0
+chain	wfjsp5_10.txt 1	66273462	50	node3564.doduo.os	0
+chain	wfjsp5_8.txt 1	66273460	48	node3551.doduo.os	0
+chain	wfjsp5_5.txt 1	66273457	45	node3519.doduo.os	0
+chain	wfjsp5_9.txt 1	66273461	49	node3519.doduo.os	0
+chain	wfjsp5_6.txt 1	66273458	46	node3522.doduo.os	0
+chain	wfjsp5_4.txt 1	66273456	44	node3512.doduo.os	0
+chain	wfjsp6_3.txt 1	66273465	53	node3533.doduo.os	0
+chain	wfjsp6_1.txt 1	66273463	51	node3505.doduo.os	0
+chain	wfjsp6_2.txt 1	66273464	52	node3512.doduo.os	0
+chain	wfjsp6_9.txt 1	66273471	59	node3564.doduo.os	0
+chain	wfjsp6_6.txt 1	66273468	56	node3519.doduo.os	0
+chain	wfjsp6_7.txt 1	66273469	57	node3522.doduo.os	0
+chain	wfjsp6_4.txt 1	66273466	54	node3512.doduo.os	0
+chain	wfjsp6_8.txt 1	66273470	58	node3551.doduo.os	0
+chain	wfjsp6_10.txt 1	66273472	60	node3533.doduo.os	0
+chain	wfjsp6_5.txt 1	66273467	55	node3519.doduo.os	0
+chain	wfjsp7_1.txt 1	66273474	61	node3505.doduo.os	0
+chain	wfjsp7_2.txt 1	66273475	62	node3512.doduo.os	0
+chain	wfjsp7_5.txt 1	66273482	65	node3512.doduo.os	0
+chain	wfjsp7_4.txt 1	66273477	64	node3564.doduo.os	0
+chain	wfjsp7_8.txt 1	66273485	68	node3533.doduo.os	0
+chain	wfjsp7_6.txt 1	66273483	66	node3522.doduo.os	0
+chain	wfjsp7_9.txt 1	66273486	69	node3533.doduo.os	0
+chain	wfjsp7_7.txt 1	66273484	67	node3533.doduo.os	0
+chain	wfjsp7_3.txt 1	66273476	63	node3519.doduo.os	0
+chain	wfjsp7_10.txt 1	66273487	70	node3533.doduo.os	0
+chain	wfjsp8_1.txt 1	66273488	71	node3551.doduo.os	0
+chain	wfjsp8_2.txt 1	66273492	72	node3519.doduo.os	0
+chain	wfjsp8_6.txt 1	66273509	76	node3533.doduo.os	0
+chain	wfjsp8_3.txt 1	66273499	73	node3505.doduo.os	0
+chain	wfjsp8_10.txt 1	66273518	80	node3533.doduo.os	0
+chain	wfjsp8_9.txt 1	66273517	79	node3533.doduo.os	0
+chain	wfjsp8_5.txt 1	66273508	75	node3512.doduo.os	0
+chain	wfjsp8_8.txt 1	66273516	78	node3522.doduo.os	0
+chain	wfjsp8_4.txt 1	66273507	74	node3512.doduo.os	0
+chain	wfjsp8_7.txt 1	66273510	77	node3564.doduo.os	0
+chain	wfjsp9_4.txt 1	66273526	84	node3519.doduo.os	0
+chain	wfjsp9_1.txt 1	66273522	81	node3519.doduo.os	0
+chain	wfjsp9_10.txt 1	66273534	90	node3522.doduo.os	0
+chain	wfjsp10_1.txt 1	66273535	91	node3533.doduo.os	0
+chain	wfjsp9_6.txt 1	66273528	86	node3505.doduo.os	0
+chain	wfjsp9_2.txt 1	66273523	82	node3533.doduo.os	0
+chain	wfjsp9_3.txt 1	66273524	83	node3551.doduo.os	0
+chain	wfjsp9_5.txt 1	66273527	85	node3533.doduo.os	0
+chain	wfjsp9_7.txt 1	66273529	87	node3533.doduo.os	0
+chain	wfjsp10_8.txt 1	66273560	98	node3533.doduo.os	0
+chain	wfjsp10_5.txt 1	66273557	95	node3519.doduo.os	0
+chain	wfjsp10_2.txt 1	66273536	92	node3564.doduo.os	0
+chain	wfjsp9_8.txt 1	66273532	88	node3512.doduo.os	0
+chain	wfjsp10_7.txt 1	66273559	97	node3533.doduo.os	0
+chain	wfjsp10_6.txt 1	66273558	96	node3522.doduo.os	0
+chain	wfjsp10_10.txt 1	66273563	100	node3533.doduo.os	0
+chain	wfjsp10_4.txt 1	66273556	94	node3519.doduo.os	0
+chain	wfjsp10_9.txt 1	66273561	99	node3551.doduo.os	0
+chain	wfjsp9_9.txt 1	66273533	89	node3512.doduo.os	0
+chain	wfjsp10_3.txt 1	66273555	93	node3505.doduo.os	0
+chain	wfjsp11_1.txt 1	66273565	101	node3533.doduo.os	0
+chain	wfjsp11_6.txt 1	66273585	106	node3522.doduo.os	0
+chain	wfjsp11_8.txt 1	66273590	108	node3533.doduo.os	0
+chain	wfjsp11_5.txt 1	66273579	105	node3512.doduo.os	0
+chain	wfjsp11_2.txt 1	66273573	102	node3519.doduo.os	0
+chain	wfjsp11_7.txt 1	66273586	107	node3533.doduo.os	0
+chain	wfjsp11_4.txt 1	66273575	104	node3564.doduo.os	0
+chain	wfjsp11_9.txt 1	66273594	109	node3519.doduo.os	0
+chain	wfjsp11_10.txt 1	66273601	110	node3551.doduo.os	0
+chain	wfjsp12_1.txt 1	66273610	111	node3512.doduo.os	0
+chain	wfjsp11_3.txt 1	66273574	103	node3533.doduo.os	0
+chain	wfjsp12_5.txt 1	66273682	115	node3533.doduo.os	0
+chain	wfjsp12_2.txt 1	66273622	112	node3505.doduo.os	0
+chain	wfjsp12_4.txt 1	66273664	114	node3522.doduo.os	0
+chain	wfjsp12_3.txt 1	66273652	113	node3533.doduo.os	0
+chain	wfjsp12_6.txt 1	66273689	116	node3512.doduo.os	0
+chain	wfjsp12_10.txt 1	66273729	120	node3564.doduo.os	0
+chain	wfjsp12_7.txt 1	66273698	117	node3519.doduo.os	0
+chain	wfjsp12_9.txt 1	66273728	119	node3519.doduo.os	0
+chain	wfjsp13_3.txt 1	66273751	123	node3533.doduo.os	0
+chain	wfjsp12_8.txt 1	66273704	118	node3533.doduo.os	0
+chain	wfjsp13_1.txt 1	66273745	121	node3551.doduo.os	0
+chain	wfjsp13_2.txt 1	66273748	122	node3512.doduo.os	0
+chain	wfjsp13_4.txt 1	66273762	124	node3533.doduo.os	0
+chain	wfjsp13_6.txt 1	66273789	126	node3522.doduo.os	0
+chain	wfjsp13_7.txt 1	66273790	127	node3533.doduo.os	0
+chain	wfjsp13_5.txt 1	66273781	125	node3505.doduo.os	0
+chain	wfjsp13_10.txt 1	66273861	130	node3519.doduo.os	0
+chain	wfjsp13_8.txt 1	66273843	128	node3564.doduo.os	0
+chain	wfjsp14_1.txt 1	66273961	131	node3551.doduo.os	0
+chain	wfjsp13_9.txt 1	66273850	129	node3519.doduo.os	0
+chain	wfjsp14_2.txt 1	66274046	132	node3522.doduo.os	0
+chain	wfjsp14_5.txt 1	66274075	135	node3564.doduo.os	0
+chain	wfjsp14_3.txt 1	66274055	133	node3505.doduo.os	0
+chain	wfjsp14_7.txt 1	66274182	137	node3551.doduo.os	0
+chain	wfjsp14_4.txt 1	66274056	134	node3519.doduo.os	0
+chain	wfjsp14_6.txt 1	66274181	136	node3519.doduo.os	0
+chain	wfjsp14_8.txt 1	66274209	138	node3522.doduo.os	0
+chain	wfjsp14_9.txt 1	66274269	139	node3564.doduo.os	0
+chain	wfjsp14_10.txt 1	66274287	140	node3505.doduo.os	0
+chain	wfjsp17_3.txt 1	66274526	163	node3541.doduo.os	0
+chain	wfjsp18_2.txt 1	66274556	172	node3547.doduo.os	0
+chain	wfjsp17_4.txt 1	66274527	164	node3543.doduo.os	0
+chain	wfjsp17_6.txt 1	66274529	166	node3559.doduo.os	0
+chain	wfjsp17_10.txt 1	66274554	170	node3547.doduo.os	0
+chain	wfjsp18_1.txt 1	66274555	171	node3547.doduo.os	0
+chain	wfjsp17_8.txt 1	66274541	168	node3617.doduo.os	0
+chain	wfjsp17_5.txt 1	66274528	165	node3543.doduo.os	0
+chain	wfjsp18_3.txt 1	66274575	173	node3544.doduo.os	0
+chain	wfjsp17_2.txt 1	66274525	162	node3541.doduo.os	0
+chain	wfjsp17_9.txt 1	66274542	169	node3617.doduo.os	0
+chain	wfjsp18_9.txt 1	66274596	179	node3541.doduo.os	0
+chain	wfjsp18_4.txt 1	66274576	174	node3544.doduo.os	0
+chain	wfjsp18_5.txt 1	66274577	175	node3621.doduo.os	0
+chain	wfjsp17_1.txt 1	66274524	161	node3541.doduo.os	0
+chain	wfjsp17_7.txt 1	66274540	167	node3617.doduo.os	0
+chain	wfjsp18_8.txt 1	66274591	178	node3601.doduo.os	0
+chain	wfjsp18_6.txt 1	66274578	176	node3621.doduo.os	0
+chain	wfjsp16_2.txt 1	66274418	152	node3562.doduo.os	0
+chain	wfjsp18_7.txt 1	66274579	177	node3621.doduo.os	0
+chain	wfjsp18_10.txt 1	66274621	180	node3556.doduo.os	0
+chain	wfjsp19_1.txt 1	66274622	181	node3556.doduo.os	0
+chain	wfjsp16_3.txt 1	66274419	153	node3625.doduo.os	0
+chain	wfjsp19_4.txt 1	66274638	184	node3559.doduo.os	0
+chain	wfjsp16_9.txt 1	66274492	159	node3518.doduo.os	0
+chain	wfjsp16_5.txt 1	66274426	155	node3546.doduo.os	0
+chain	wfjsp15_2.txt 1	66274373	142	node3519.doduo.os	0
+chain	wfjsp16_1.txt 1	66274411	151	node3622.doduo.os	0
+chain	wfjsp19_6.txt 1	66274660	186	node3543.doduo.os	0
+chain	wfjsp19_10.txt 1	66274679	190	node3620.doduo.os	0
+chain	wfjsp19_7.txt 1	66274669	187	node3621.doduo.os	0
+chain	wfjsp20_7.txt 1	66274686	197	node3627.doduo.os	0
+chain	wfjsp19_2.txt 1	66274636	182	node3540.doduo.os	0
+chain	wfjsp16_4.txt 1	66274420	154	node3625.doduo.os	0
+chain	wfjsp20_1.txt 1	66274680	191	node3620.doduo.os	0
+chain	wfjsp16_6.txt 1	66274427	156	node3546.doduo.os	0
+chain	wfjsp20_6.txt 1	66274685	196	node3627.doduo.os	0
+chain	wfjsp15_8.txt 1	66274408	148	node3560.doduo.os	0
+chain	wfjsp16_8.txt 1	66274455	158	node3563.doduo.os	0
+chain	wfjsp20_3.txt 1	66274682	193	node3620.doduo.os	0
+chain	wfjsp19_5.txt 1	66274653	185	node3543.doduo.os	0
+chain	wfjsp20_8.txt 1	66274694	198	node3621.doduo.os	0
+chain	wfjsp19_3.txt 1	66274637	183	node3540.doduo.os	0
+chain	wfjsp20_4.txt 1	66274683	194	node3620.doduo.os	0
+chain	wfjsp19_8.txt 1	66274677	188	node3620.doduo.os	0
+chain	wfjsp20_5.txt 1	66274684	195	node3621.doduo.os	0
+chain	wfjsp16_10.txt 1	66274493	160	node3518.doduo.os	0
+chain	wfjsp20_9.txt 1	66274704	199	node3625.doduo.os	0
+chain	wfjsp19_9.txt 1	66274678	189	node3620.doduo.os	0
+chain	wfjsp15_4.txt 1	66274385	144	node3522.doduo.os	0
+chain	wfjsp20_2.txt 1	66274681	192	node3620.doduo.os	0
+chain	wfjsp16_7.txt 1	66274454	157	node3563.doduo.os	0
+chain	wfjsp15_6.txt 1	66274398	146	node3505.doduo.os	0
+chain	wfjsp20_10.txt 1	66274708	200	node3619.doduo.os	0
+chain	wfjsp15_3.txt 1	66274374	143	node3519.doduo.os	0
+chain	wfjsp22_2.txt 1	66274728	212	node3557.doduo.os	0
+chain	wfjsp21_10.txt 1	66274726	210	node3555.doduo.os	0
+chain	wfjsp22_8.txt 1	66274735	218	node3627.doduo.os	0
+chain	wfjsp15_1.txt 1	66274355	141	node3551.doduo.os	0
+chain	wfjsp22_9.txt 1	66274737	219	node3542.doduo.os	0
+chain	wfjsp22_1.txt 1	66274727	211	node3555.doduo.os	0
+chain	wfjsp22_5.txt 1	66274732	215	node3622.doduo.os	0
+chain	wfjsp21_2.txt 1	66274710	202	node3619.doduo.os	0
+chain	Mk01.txt 1	66274764	241	node3620.doduo.os	0
+chain	Mk04.txt 1	66274767	244	node3620.doduo.os	0
+chain	Mk02.txt 1	66274765	242	node3620.doduo.os	0
+chain	wfjsp22_10.txt 1	66274738	220	node3542.doduo.os	0
+chain	wfjsp21_8.txt 1	66274721	208	node3562.doduo.os	0
+chain	wfjsp21_4.txt 1	66274717	204	node3511.doduo.os	0
+chain	wfjsp21_1.txt 1	66274709	201	node3619.doduo.os	0
+chain	wfjsp21_5.txt 1	66274718	205	node3511.doduo.os	0
+chain	Mk03.txt 1	66274766	243	node3620.doduo.os	0
+chain	Mk05.txt 1	66274768	245	node3620.doduo.os	0
+chain	wfjsp1_5.txt 2	66274794	267	node3619.doduo.os	0
+chain	wfjsp1_2.txt 2	66274791	264	node3556.doduo.os	0
+chain	wfjsp1_1.txt 2	66274790	263	node3511.doduo.os	0
+chain	wfjsp1_4.txt 2	66274793	266	node3562.doduo.os	0
+chain	wfjsp1_3.txt 2	66274792	265	node3556.doduo.os	0
+chain	wfjsp22_6.txt 1	66274733	216	node3621.doduo.os	0
+chain	wfjsp21_3.txt 1	66274716	203	node3511.doduo.os	0
+chain	wfjsp1_6.txt 2	66274795	268	node3511.doduo.os	0
+chain	wfjsp1_9.txt 2	66274798	271	node3562.doduo.os	0
+chain	wfjsp1_10.txt 2	66274799	272	node3619.doduo.os	0
+chain	wfjsp1_7.txt 2	66274796	269	node3556.doduo.os	0
+chain	wfjsp2_2.txt 2	66274801	274	node3620.doduo.os	0
+chain	wfjsp2_1.txt 2	66274800	273	node3620.doduo.os	0
+chain	wfjsp1_8.txt 2	66274797	270	node3556.doduo.os	0
+chain	wfjsp15_7.txt 1	66274405	147	node3627.doduo.os	0
+chain	wfjsp22_3.txt 1	66274729	213	node3557.doduo.os	0
+chain	wfjsp21_7.txt 1	66274720	207	node3520.doduo.os	0
+chain	wfjsp2_9.txt 2	66274808	281	node3620.doduo.os	0
+chain	wfjsp2_3.txt 2	66274802	275	node3511.doduo.os	0
+chain	wfjsp2_8.txt 2	66274807	280	node3619.doduo.os	0
+chain	Mk07.txt 1	66274771	247	node3561.doduo.os	0
+chain	wfjsp2_7.txt 2	66274806	279	node3562.doduo.os	0
+chain	wfjsp3_1.txt 2	66274810	283	node3621.doduo.os	0
+chain	wfjsp2_6.txt 2	66274805	278	node3556.doduo.os	0
+chain	wfjsp2_5.txt 2	66274804	277	node3556.doduo.os	0
+chain	wfjsp3_2.txt 2	66274811	284	node3627.doduo.os	0
+chain	wfjsp2_10.txt 2	66274809	282	node3620.doduo.os	0
+chain	wfjsp2_4.txt 2	66274803	276	node3511.doduo.os	0
+chain	wfjsp22_4.txt 1	66274731	214	node3519.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp1_1.txt 1	66274812	1	node3620.doduo.os	0
+chain	wfjsp3_3.txt 2	66274813	285	node3511.doduo.os	0
+chain	wfjsp4_5.txt 2	66274825	297	node3627.doduo.os	0
+chain	wfjsp3_9.txt 2	66274819	291	node3561.doduo.os	0
+chain	wfjsp3_5.txt 2	66274815	287	node3520.doduo.os	0
+chain	wfjsp3_10.txt 2	66274820	292	node3562.doduo.os	0
+chain	wfjsp3_8.txt 2	66274818	290	node3557.doduo.os	0
+chain	Mk08.txt 1	66274772	248	node3563.doduo.os	0
+chain	wfjsp3_6.txt 2	66274816	288	node3556.doduo.os	0
+chain	Dauzere_01a.txt 1	66274775	251	node3608.doduo.os	0
+chain	wfjsp4_1.txt 2	66274821	293	node3619.doduo.os	0
+chain	wfjsp21_9.txt 1	66274725	209	node3547.doduo.os	0
+chain	wfjsp4_4.txt 2	66274824	296	node3621.doduo.os	0
+chain	wfjsp3_4.txt 2	66274814	286	node3511.doduo.os	0
+chain	wfjsp3_7.txt 2	66274817	289	node3556.doduo.os	0
+chain	wfjsp4_3.txt 2	66274823	295	node3620.doduo.os	0
+chain	wfjsp4_2.txt 2	66274822	294	node3620.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp1_2.txt 1	66274827	3	node3620.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp1_1.txt 1	66274826	2	node3561.doduo.os	0
+chain	wfjsp4_9.txt 2	66274831	301	node3520.doduo.os	0
+chain	wfjsp4_10.txt 2	66274832	302	node3556.doduo.os	0
+chain	wfjsp4_8.txt 2	66274830	300	node3519.doduo.os	0
+chain	wfjsp4_6.txt 2	66274828	298	node3511.doduo.os	0
+chain	wfjsp4_7.txt 2	66274829	299	node3511.doduo.os	0
+chain	wfjsp5_10.txt 2	66274842	312	node3627.doduo.os	0
+chain	wfjsp5_9.txt 2	66274841	311	node3621.doduo.os	0
+chain	Dauzere_04a.txt 1	66274778	254	node3615.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp1_3.txt 1	66274844	5	node3561.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp1_2.txt 1	66274843	4	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp1_3.txt 1	66274845	6	node3620.doduo.os	0
+chain	wfjsp5_6.txt 2	66274838	308	node3608.doduo.os	0
+chain	wfjsp5_5.txt 2	66274837	307	node3563.doduo.os	0
+chain	wfjsp5_2.txt 2	66274834	304	node3557.doduo.os	0
+chain	wfjsp5_7.txt 2	66274839	309	node3619.doduo.os	0
+chain	wfjsp21_6.txt 1	66274719	206	node3518.doduo.os	0
+chain	wfjsp5_4.txt 2	66274836	306	node3562.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp1_4.txt 1	66274853	7	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp1_5.txt 1	66274855	9	node3620.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp1_4.txt 1	66274854	8	node3561.doduo.os	0
+chain	Mk06.txt 1	66274769	246	node3555.doduo.os	0
+chain	wfjsp5_3.txt 2	66274835	305	node3561.doduo.os	0
+chain	wfjsp5_8.txt 2	66274840	310	node3620.doduo.os	0
+chain	wfjsp22_7.txt 1	66274734	217	node3625.doduo.os	0
+chain	wfjsp5_1.txt 2	66274833	303	node3556.doduo.os	0
+chain	wfjsp6_3.txt 2	66274848	315	node3519.doduo.os	0
+chain	wfjsp6_1.txt 2	66274846	313	node3511.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp1_5.txt 1	66274863	10	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp1_6.txt 1	66274865	12	node3620.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp1_6.txt 1	66274864	11	node3561.doduo.os	0
+chain	wfjsp6_10.txt 2	66274858	322	node3563.doduo.os	0
+chain	wfjsp6_9.txt 2	66274857	321	node3557.doduo.os	0
+chain	wfjsp6_2.txt 2	66274847	314	node3511.doduo.os	0
+chain	wfjsp6_7.txt 2	66274852	319	node3627.doduo.os	0
+chain	wfjsp6_4.txt 2	66274849	316	node3520.doduo.os	0
+chain	wfjsp15_9.txt 1	66274409	149	node3560.doduo.os	0
+chain	Dauzere_02a.txt 1	66274776	252	node3608.doduo.os	0
+chain	wfjsp6_8.txt 2	66274856	320	node3518.doduo.os	0
+chain	Dauzere_05a.txt 1	66274779	255	node3617.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp1_8.txt 1	66274873	15	node3620.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp1_7.txt 1	66274871	13	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp1_7.txt 1	66274872	14	node3561.doduo.os	0
+chain	wfjsp6_5.txt 2	66274850	317	node3556.doduo.os	0
+chain	wfjsp6_6.txt 2	66274851	318	node3620.doduo.os	0
+chain	wfjsp7_4.txt 2	66274862	326	node3621.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp1_10.txt 1	66274887	19	node3620.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp1_8.txt 1	66274884	16	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp1_9.txt 1	66274886	18	node3561.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp1_9.txt 1	66274885	17	node3559.doduo.os	0
+chain	wfjsp7_1.txt 2	66274859	323	node3608.doduo.os	0
+chain	Dauzere_03a.txt 1	66274777	253	node3608.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp2_2.txt 1	66274894	23	node3620.doduo.os	0
+chain	wfjsp7_5.txt 2	66274866	327	node3556.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp1_10.txt 1	66274891	20	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp2_1.txt 1	66274892	21	node3559.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp2_1.txt 1	66274893	22	node3561.doduo.os	0
+chain	wfjsp7_9.txt 2	66274870	331	node3625.doduo.os	0
+chain	Dauzere_06a.txt 1	66274781	256	node3559.doduo.os	0
+chain	wfjsp7_8.txt 2	66274869	330	node3620.doduo.os	0
+chain	wfjsp7_6.txt 2	66274867	328	node3561.doduo.os	0
+chain	wfjsp7_2.txt 2	66274860	324	node3615.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp2_4.txt 1	66274901	27	node3620.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp2_2.txt 1	66274898	24	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp2_3.txt 1	66274899	25	node3559.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp2_3.txt 1	66274900	26	node3561.doduo.os	0
+chain	wfjsp24_2.txt 1	66274755	232	node3505.doduo.os	0
+chain	wfjsp7_10.txt 2	66274874	332	node3511.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp2_6.txt 1	66274911	31	node3620.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp2_4.txt 1	66274908	28	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp2_5.txt 1	66274910	30	node3561.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp2_5.txt 1	66274909	29	node3559.doduo.os	0
+chain	wfjsp15_5.txt 1	66274394	145	node3564.doduo.os	0
+chain	wfjsp24_1.txt 1	66274752	231	node3625.doduo.os	0
+chain	wfjsp7_7.txt 2	66274868	329	node3562.doduo.os	0
+chain	wfjsp8_5.txt 2	66274879	337	node3557.doduo.os	0
+chain	wfjsp8_2.txt 2	66274876	334	node3518.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp2_8.txt 1	66274917	36	node3620.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp2_8.txt 1	66274916	35	node3617.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp2_6.txt 1	66274913	32	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp2_7.txt 1	66274914	33	node3559.doduo.os	0
+chain	wfjsp8_1.txt 2	66274875	333	node3511.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp2_7.txt 1	66274915	34	node3561.doduo.os	0
+chain	wfjsp7_3.txt 2	66274861	325	node3619.doduo.os	0
+chain	wfjsp23_6.txt 1	66274747	226	node3518.doduo.os	0
+chain	Mk09.txt 1	66274773	249	node3563.doduo.os	0
+chain	wfjsp8_9.txt 2	66274883	341	node3627.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp2_9.txt 1	66274922	37	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp3_1.txt 1	66274926	41	node3620.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp2_10.txt 1	66274924	39	node3561.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp2_10.txt 1	66274925	40	node3617.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp2_9.txt 1	66274923	38	node3559.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp3_1.txt 1	66274927	42	node3624.doduo.os	0
+chain	wfjsp8_10.txt 2	66274888	342	node3556.doduo.os	0
+chain	wfjsp8_7.txt 2	66274881	339	node3563.doduo.os	0
+chain	wfjsp8_3.txt 2	66274877	335	node3519.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp3_3.txt 1	66274936	45	node3529.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp3_9.txt 1	66274948	57	node3620.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp3_2.txt 1	66274934	43	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp3_7.txt 1	66274944	53	node3615.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp3_5.txt 1	66274940	49	node3556.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp3_3.txt 1	66274937	46	node3536.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp3_8.txt 1	66274946	55	node3618.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp3_6.txt 1	66274942	51	node3561.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp3_4.txt 1	66274938	47	node3544.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp3_9.txt 1	66274949	58	node3624.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp3_4.txt 1	66274939	48	node3546.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp3_2.txt 1	66274935	44	node3525.doduo.os	0
+chain	wfjsp8_4.txt 2	66274878	336	node3520.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp3_5.txt 1	66274941	50	node3559.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp3_7.txt 1	66274945	54	node3617.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp3_6.txt 1	66274943	52	node3601.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp3_8.txt 1	66274947	56	node3618.doduo.os	0
+chain	Mk10.txt 1	66274774	250	node3601.doduo.os	0
+chain	wfjsp15_10.txt 1	66274410	150	node3560.doduo.os	0
+chain	Dauzere_11a.txt 1	66274787	261	node3620.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp4_9.txt 1	66274972	77	node3546.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp4_5.txt 1	66274964	69	node3536.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp4_8.txt 1	66274970	75	node3544.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp4_7.txt 1	66274968	73	node3541.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp4_3.txt 1	66274960	65	node3529.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp3_10.txt 1	66274954	59	node3506.doduo.os	0
+chain	Dauzere_08a.txt 1	66274783	258	node3620.doduo.os	0
+chain	Dauzere_07a.txt 1	66274782	257	node3619.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp4_10.txt 1	66274974	79	node3559.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp4_9.txt 1	66274973	78	node3556.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp3_10.txt 1	66274955	60	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp5_3.txt 1	66274980	85	node3615.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp5_2.txt 1	66274978	83	node3601.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp4_7.txt 1	66274969	74	node3543.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp4_4.txt 1	66274963	68	node3532.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp4_1.txt 1	66274957	62	node3514.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp5_1.txt 1	66274976	81	node3561.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp4_2.txt 1	66274959	64	node3525.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp5_6.txt 1	66274986	91	node3624.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp4_6.txt 1	66274967	72	node3539.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp5_5.txt 1	66274984	89	node3619.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp4_4.txt 1	66274962	67	node3529.doduo.os	0
+chain	wfjsp8_6.txt 2	66274880	338	node3560.doduo.os	0
+chain	wfjsp9_5.txt 2	66274897	347	node3621.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp4_2.txt 1	66274958	63	node3525.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp4_1.txt 1	66274956	61	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp5_4.txt 1	66274982	87	node3618.doduo.os	0
+chain	wfjsp9_2.txt 2	66274890	344	node3620.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp5_2.txt 1	66274979	84	node3608.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp4_10.txt 1	66274975	80	node3559.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp4_6.txt 1	66274966	71	node3536.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp5_1.txt 1	66274977	82	node3563.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp4_5.txt 1	66274965	70	node3536.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp5_3.txt 1	66274981	86	node3617.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp4_3.txt 1	66274961	66	node3529.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp4_8.txt 1	66274971	76	node3544.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp5_5.txt 1	66274985	90	node3620.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp5_4.txt 1	66274983	88	node3618.doduo.os	0
+chain	wfjsp9_1.txt 2	66274889	343	node3617.doduo.os	0
+chain	wfjsp8_8.txt 2	66274882	340	node3608.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp5_9.txt 1	66274998	97	node3514.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp5_7.txt 1	66274994	93	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp6_6.txt 1	66275012	111	node3542.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp6_8.txt 1	66275016	115	node3546.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp7_5.txt 1	66275030	129	node3618.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp6_5.txt 1	66275010	109	node3539.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp7_7.txt 1	66275034	133	node3624.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp5_10.txt 1	66275001	100	node3529.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp7_1.txt 1	66275022	121	node3561.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp6_9.txt 1	66275018	117	node3556.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp6_10.txt 1	66275020	119	node3559.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp5_9.txt 1	66274999	98	node3525.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp5_8.txt 1	66274996	95	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp7_6.txt 1	66275032	131	node3619.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp7_3.txt 1	66275026	125	node3608.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp6_4.txt 1	66275008	107	node3536.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp7_4.txt 1	66275028	127	node3617.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp5_10.txt 1	66275000	99	node3525.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp6_6.txt 1	66275013	112	node3543.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp6_7.txt 1	66275014	113	node3544.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp6_9.txt 1	66275019	118	node3556.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp6_2.txt 1	66275004	103	node3529.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp6_3.txt 1	66275006	105	node3536.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp5_6.txt 1	66274993	92	node3506.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp6_1.txt 1	66275002	101	node3529.doduo.os	0
+chain	wfjsp24_6.txt 1	66274759	236	node3627.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp6_10.txt 1	66275021	120	node3559.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp6_7.txt 1	66275015	114	node3544.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp6_2.txt 1	66275005	104	node3532.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp6_5.txt 1	66275011	110	node3541.doduo.os	0
+chain	wfjsp9_9.txt 2	66274905	351	node3615.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp6_8.txt 1	66275017	116	node3547.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp5_7.txt 1	66274995	94	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp6_3.txt 1	66275007	106	node3536.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp6_4.txt 1	66275009	108	node3536.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp7_2.txt 1	66275024	123	node3601.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp6_1.txt 1	66275003	102	node3529.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp5_8.txt 1	66274997	96	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp7_1.txt 1	66275023	122	node3563.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp7_5.txt 1	66275031	130	node3619.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp7_8.txt 1	66275046	135	node3513.doduo.os	0
+chain	wfjsp9_6.txt 2	66274902	348	node3556.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp7_2.txt 1	66275025	124	node3601.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp8_10.txt 1	66275070	159	node3546.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp8_8.txt 1	66275066	155	node3542.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp8_1.txt 1	66275052	141	node3527.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp8_7.txt 1	66275064	153	node3540.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp8_3.txt 1	66275056	145	node3529.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp7_6.txt 1	66275033	132	node3620.doduo.os	0
+chain	wfjsp9_10.txt 2	66274906	352	node3620.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp9_4.txt 1	66275078	167	node3561.doduo.os	0
+chain	wfjsp10_8.txt 2	66274929	360	node3518.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp9_6.txt 1	66275082	171	node3618.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp9_1.txt 1	66275072	161	node3555.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp7_3.txt 1	66275027	126	node3615.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp7_10.txt 1	66275050	139	node3525.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp7_9.txt 1	66275048	137	node3514.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp9_2.txt 1	66275074	163	node3556.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp9_7.txt 1	66275084	173	node3619.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp9_5.txt 1	66275080	169	node3608.doduo.os	0
+chain	wfjsp24_9.txt 1	66274762	239	node3620.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp8_4.txt 1	66275058	147	node3529.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp8_6.txt 1	66275062	151	node3536.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp8_5.txt 1	66275060	149	node3532.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp8_2.txt 1	66275054	143	node3529.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp7_4.txt 1	66275029	128	node3617.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp8_9.txt 1	66275068	157	node3544.doduo.os	0
+chain	wfjsp10_1.txt 2	66274907	353	node3625.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp9_3.txt 1	66275076	165	node3559.doduo.os	0
+chain	wfjsp9_3.txt 2	66274895	345	node3608.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp7_10.txt 1	66275051	140	node3525.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp7_9.txt 1	66275049	138	node3514.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp7_8.txt 1	66275047	136	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp7_7.txt 1	66275045	134	node3506.doduo.os	0
+chain	wfjsp10_6.txt 2	66274921	358	node3625.doduo.os	0
+chain	wfjsp9_7.txt 2	66274903	349	node3559.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp10_1.txt 1	66275097	181	node3525.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp10_5.txt 1	66275105	189	node3537.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp10_10.txt 1	66275115	199	node3556.doduo.os	0
+chain	wfjsp10_10.txt 2	66274931	362	node3557.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp9_10.txt 1	66275095	179	node3514.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp9_8.txt 1	66275091	175	node3513.doduo.os	0
+chain	wfjsp9_4.txt 2	66274896	346	node3608.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp9_9.txt 1	66275093	177	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp10_7.txt 1	66275109	193	node3545.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp10_9.txt 1	66275113	197	node3555.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp8_10.txt 1	66275071	160	node3547.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp10_8.txt 1	66275111	195	node3547.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp8_8.txt 1	66275067	156	node3543.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp8_1.txt 1	66275053	142	node3529.doduo.os	0
+chain	wfjsp10_7.txt 2	66274928	359	node3511.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp8_5.txt 1	66275061	150	node3536.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp8_2.txt 1	66275055	144	node3529.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp8_7.txt 1	66275065	154	node3541.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp8_9.txt 1	66275069	158	node3544.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp10_6.txt 1	66275107	191	node3540.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp10_3.txt 1	66275101	185	node3532.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp10_4.txt 1	66275103	187	node3536.doduo.os	0
+chain	wfjsp24_3.txt 1	66274756	233	node3519.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp10_2.txt 1	66275099	183	node3529.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp11_6.txt 1	66275127	211	node3620.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp9_7.txt 1	66275085	174	node3624.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp11_2.txt 1	66275119	203	node3601.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp11_7.txt 1	66275129	213	node3622.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp11_4.txt 1	66275123	207	node3618.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp11_1.txt 1	66275117	201	node3563.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp8_3.txt 1	66275057	146	node3529.doduo.os	0
+chain	wfjsp10_5.txt 2	66274920	357	node3564.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp11_3.txt 1	66275121	205	node3608.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp8_4.txt 1	66275059	148	node3532.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp10_10.txt 1	66275116	200	node3561.doduo.os	0
+chain	Dauzere_10a.txt 1	66274786	260	node3620.doduo.os	0
+chain	wfjsp10_4.txt 2	66274919	356	node3562.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp8_6.txt 1	66275063	152	node3539.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp9_2.txt 1	66275075	164	node3557.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp10_9.txt 1	66275114	198	node3555.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp9_8.txt 1	66275092	176	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp9_5.txt 1	66275081	170	node3617.doduo.os	0
+chain	wfjsp23_1.txt 1	66274739	221	node3542.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp11_5.txt 1	66275125	209	node3619.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp9_4.txt 1	66275079	168	node3561.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp11_10.txt 1	66275140	219	node3514.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp12_5.txt 1	66275150	229	node3537.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp12_1.txt 1	66275142	221	node3525.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp12_2.txt 1	66275144	223	node3526.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp11_9.txt 1	66275138	217	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp10_1.txt 1	66275098	182	node3527.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp9_6.txt 1	66275083	172	node3618.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp9_9.txt 1	66275094	178	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp11_8.txt 1	66275136	215	node3506.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp12_4.txt 1	66275148	227	node3534.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp10_5.txt 1	66275106	190	node3540.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp12_6.txt 1	66275152	231	node3545.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp10_6.txt 1	66275108	192	node3542.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp9_10.txt 1	66275096	180	node3524.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp10_8.txt 1	66275112	196	node3555.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp9_1.txt 1	66275073	162	node3556.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp12_3.txt 1	66275146	225	node3529.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp12_7.txt 1	66275154	233	node3556.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp10_7.txt 1	66275110	194	node3546.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp10_2.txt 1	66275100	184	node3529.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp9_3.txt 1	66275077	166	node3559.doduo.os	0
+chain	wfjsp9_8.txt 2	66274904	350	node3561.doduo.os	0
+chain	wfjsp10_2.txt 2	66274912	354	node3505.doduo.os	0
+chain	wfjsp24_10.txt 1	66274763	240	node3620.doduo.os	0
+chain	Dauzere_09a.txt 1	66274784	259	node3622.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp12_8.txt 1	66275156	235	node3617.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp10_3.txt 1	66275102	186	node3535.doduo.os	0
+chain	wfjsp10_9.txt 2	66274930	361	node3518.doduo.os	0
+chain	wfjsp11_1.txt 2	66274932	363	node3563.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp12_9.txt 1	66275163	237	node3501.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp14_1.txt 1	66275187	261	node3618.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp10_4.txt 1	66275104	188	node3536.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp12_10.txt 1	66275165	239	node3514.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp11_1.txt 1	66275118	202	node3601.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp13_3.txt 1	66275171	245	node3532.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp11_6.txt 1	66275128	212	node3620.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp14_2.txt 1	66275189	263	node3622.doduo.os	0
+chain	Dauzere_12a.txt 1	66274789	262	node3511.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp14_8.txt 1	66275203	275	node3539.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp13_4.txt 1	66275173	247	node3536.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp14_9.txt 1	66275205	277	node3557.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp13_9.txt 1	66275183	257	node3557.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp17_3.txt 1	66275260	325	node3525.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp17_5.txt 1	66275264	329	node3536.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp14_3.txt 1	66275191	265	node3624.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp13_8.txt 1	66275181	255	node3547.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp17_6.txt 1	66275266	331	node3542.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp13_7.txt 1	66275179	253	node3544.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp17_7.txt 1	66275268	333	node3618.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp17_1.txt 1	66275256	321	node3511.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp14_4.txt 1	66275195	267	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp14_6.txt 1	66275199	271	node3526.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp13_5.txt 1	66275175	249	node3540.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp17_4.txt 1	66275262	327	node3534.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp13_1.txt 1	66275167	241	node3527.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp17_2.txt 1	66275258	323	node3514.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp12_5.txt 1	66275151	230	node3544.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp14_5.txt 1	66275197	269	node3514.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp14_10.txt 1	66275207	279	node3561.doduo.os	0
+chain	wfjsp11_3.txt 2	66274950	365	node3546.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp11_8.txt 1	66275137	216	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp13_10.txt 1	66275185	259	node3601.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp13_6.txt 1	66275177	251	node3542.doduo.os	0
+chain	wfjsp24_5.txt 1	66274758	235	node3557.doduo.os	0
+chain	wfjsp24_4.txt 1	66274757	234	node3555.doduo.os	0
+chain	wfjsp10_3.txt 2	66274918	355	node3511.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp14_7.txt 1	66275201	273	node3532.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp11_9.txt 1	66275139	218	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp18_9.txt 1	66275296	357	node3542.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp18_8.txt 1	66275294	355	node3539.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp17_8.txt 1	66275274	335	node3511.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp18_1.txt 1	66275280	341	node3514.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp18_7.txt 1	66275292	353	node3536.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp17_10.txt 1	66275278	339	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp18_10.txt 1	66275298	359	node3547.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp11_3.txt 1	66275122	206	node3615.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp18_5.txt 1	66275288	349	node3525.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp18_2.txt 1	66275282	343	node3525.doduo.os	0
+chain	wfjsp11_10.txt 2	66274990	372	node3543.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp18_6.txt 1	66275290	351	node3532.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp13_2.txt 1	66275169	243	node3529.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp17_9.txt 1	66275276	337	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp11_10.txt 1	66275141	220	node3514.doduo.os	0
+chain	wfjsp11_9.txt 2	66274989	371	node3541.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp18_4.txt 1	66275286	347	node3525.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp17_1.txt 1	66275257	322	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp18_3.txt 1	66275284	345	node3525.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp11_7.txt 1	66275135	214	node3501.doduo.os	0
+chain	wfjsp23_2.txt 1	66274740	222	node3627.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp17_7.txt 1	66275269	334	node3624.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp12_8.txt 1	66275157	236	node3621.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp19_1.txt 1	66275300	361	node3557.doduo.os	0
+chain	wfjsp12_5.txt 2	66275037	377	node3560.doduo.os	0
+chain	wfjsp11_8.txt 2	66274988	370	node3520.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp17_5.txt 1	66275265	330	node3540.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp19_2.txt 1	66275302	363	node3618.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp19_6.txt 1	66275315	371	node3514.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp19_3.txt 1	66275304	365	node3622.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp17_4.txt 1	66275263	328	node3535.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp17_2.txt 1	66275259	324	node3524.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp11_4.txt 1	66275124	208	node3619.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp19_10.txt 1	66275323	379	node3542.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp20_1.txt 1	66275325	381	node3544.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp19_7.txt 1	66275317	373	node3532.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp20_2.txt 1	66275327	383	node3601.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp17_6.txt 1	66275267	332	node3557.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp17_9.txt 1	66275277	338	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp16_5.txt 1	66275244	309	node3507.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp17_8.txt 1	66275275	336	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp17_10.txt 1	66275279	340	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp11_2.txt 1	66275120	204	node3601.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp16_2.txt 1	66275236	303	node3617.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp12_1.txt 1	66275143	222	node3525.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp17_3.txt 1	66275261	326	node3529.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp19_9.txt 1	66275321	377	node3539.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp18_5.txt 1	66275289	350	node3526.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp12_10.txt 1	66275166	240	node3514.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp12_2.txt 1	66275145	224	node3529.doduo.os	0
+chain	wfjsp11_5.txt 2	66274952	367	node3556.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp12_3.txt 1	66275147	226	node3532.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp16_8.txt 1	66275250	315	node3507.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp19_8.txt 1	66275319	375	node3534.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp12_6.txt 1	66275153	232	node3555.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp20_7.txt 1	66275341	393	node3524.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp20_10.txt 1	66275347	399	node3529.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp19_4.txt 1	66275311	367	node3511.doduo.os	0
+chain	wfjsp24_7.txt 1	66274760	237	node3551.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp20_4.txt 1	66275335	387	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp20_3.txt 1	66275333	385	node3501.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp18_10.txt 1	66275299	360	node3557.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp20_5.txt 1	66275337	389	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp18_6.txt 1	66275291	352	node3534.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp16_9.txt 1	66275252	317	node3507.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp19_5.txt 1	66275313	369	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp18_7.txt 1	66275293	354	node3536.doduo.os	0
+chain	wfjsp11_6.txt 2	66274953	368	node3627.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp20_8.txt 1	66275343	395	node3525.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp12_4.txt 1	66275149	228	node3536.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp20_9.txt 1	66275345	397	node3525.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp18_9.txt 1	66275297	358	node3544.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp20_6.txt 1	66275339	391	node3514.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp16_3.txt 1	66275240	305	node3501.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp16_6.txt 1	66275246	311	node3507.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp14_1.txt 1	66275188	262	node3620.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp18_1.txt 1	66275281	342	node3525.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp18_2.txt 1	66275283	344	node3525.doduo.os	0
+chain	wfjsp24_8.txt 1	66274761	238	node3619.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp12_7.txt 1	66275155	234	node3559.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp18_3.txt 1	66275285	346	node3525.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp21_3.txt 1	66275353	405	node3557.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp21_1.txt 1	66275349	401	node3532.doduo.os	0
+chain	wfjsp12_4.txt 2	66275036	376	node3555.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp11_5.txt 1	66275126	210	node3620.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp21_5.txt 1	66275357	409	node3615.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp18_8.txt 1	66275295	356	node3540.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Mk01.txt 1	66275441	481	node3558.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp22_2.txt 1	66275375	423	node3535.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Mk02.txt 1	66275443	483	node3615.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Mk04.txt 1	66275447	487	node3627.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp22_5.txt 1	66275381	429	node3557.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp22_1.txt 1	66275373	421	node3532.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp22_3.txt 1	66275377	425	node3542.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp16_4.txt 1	66275242	307	node3502.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp16_10.txt 1	66275254	319	node3507.doduo.os	0
+chain	wfjsp11_2.txt 2	66274933	364	node3619.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Mk01.txt 1	66275442	482	node3559.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp21_7.txt 1	66275361	413	node3624.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp16_1.txt 1	66275234	301	node3556.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp21_6.txt 1	66275359	411	node3618.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp21_2.txt 1	66275351	403	node3536.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp22_7.txt 1	66275385	433	node3617.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp22_9.txt 1	66275389	437	node3622.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp12_9.txt 1	66275164	238	node3506.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Mk02.txt 1	66275444	484	node3620.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp18_4.txt 1	66275287	348	node3525.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Mk03.txt 1	66275445	485	node3620.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp21_8.txt 1	66275367	415	node3507.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp22_6.txt 1	66275383	431	node3601.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp22_4.txt 1	66275379	427	node3544.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp22_8.txt 1	66275387	435	node3619.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp21_10.txt 1	66275371	419	node3514.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Mk05.txt 1	66275452	489	node3507.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp15_8.txt 1	66275228	295	node3543.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Dauzere_01a.txt 1	66275464	501	node3615.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Mk07.txt 1	66275456	493	node3540.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Dauzere_02a.txt 1	66275466	503	node3619.doduo.os	0
+chain	wfjsp14_5.txt 2	66275160	397	node3608.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp15_2.txt 1	66275211	283	node3619.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp15_1.txt 1	66275209	281	node3608.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp14_8.txt 1	66275204	276	node3555.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Mk08.txt 1	66275458	495	node3556.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp19_3.txt 1	66275305	366	node3624.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp19_10.txt 1	66275324	380	node3542.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp21_4.txt 1	66275355	407	node3562.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp14_6.txt 1	66275200	272	node3529.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp15_9.txt 1	66275230	297	node3546.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Mk06.txt 1	66275454	491	node3532.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp14_5.txt 1	66275198	270	node3525.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp15_5.txt 1	66275222	289	node3529.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Dauzere_03a.txt 1	66275468	505	node3624.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Mk04.txt 1	66275451	488	node3502.doduo.os	0
+chain	wfjsp12_1.txt 2	66274991	373	node3543.doduo.os	0
+chain	wfjsp11_7.txt 2	66274987	369	node3519.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp22_10.txt 1	66275393	439	node3501.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp19_4.txt 1	66275312	368	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp15_4.txt 1	66275220	287	node3524.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Dauzere_04a.txt 1	66275471	507	node3501.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp15_7.txt 1	66275226	293	node3540.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp15_6.txt 1	66275224	291	node3534.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp15_10.txt 1	66275232	299	node3556.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp15_3.txt 1	66275218	285	node3506.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp13_5.txt 1	66275176	250	node3541.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Dauzere_05a.txt 1	66275473	509	node3507.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Dauzere_07a.txt 1	66275477	513	node3524.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp20_1.txt 1	66275326	382	node3561.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Mk09.txt 1	66275460	497	node3558.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Mk07.txt 1	66275457	494	node3542.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp19_2.txt 1	66275303	364	node3620.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Mk05.txt 1	66275453	490	node3532.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Dauzere_10a.txt 1	66275483	519	node3543.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Mk03.txt 1	66275446	486	node3625.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp19_7.txt 1	66275318	374	node3534.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Dauzere_06a.txt 1	66275475	511	node3514.doduo.os	0
+chain	wfjsp12_6.txt 2	66275038	378	node3560.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp24_1.txt 1	66275415	461	node3561.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp19_1.txt 1	66275301	362	node3601.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp19_6.txt 1	66275316	372	node3527.doduo.os	0
+chain	wfjsp1_6.txt 3	66275580	530	node3542.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp14_4.txt 1	66275196	268	node3514.doduo.os	0
+chain	wfjsp12_7.txt 2	66275039	379	node3601.doduo.os	0
+chain	wfjsp1_3.txt 3	66275577	527	node3541.doduo.os	0
+chain	wfjsp2_5.txt 3	66275589	539	node3546.doduo.os	0
+chain	wfjsp2_2.txt 3	66275586	536	node3546.doduo.os	0
+chain	wfjsp2_1.txt 3	66275585	535	node3543.doduo.os	0
+chain	wfjsp12_2.txt 2	66274992	374	node3563.doduo.os	0
+chain	wfjsp13_6.txt 2	66275089	388	node3617.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp13_1.txt 1	66275168	242	node3529.doduo.os	0
+chain	wfjsp3_3.txt 3	66275597	547	node3562.doduo.os	0
+chain	wfjsp12_8.txt 2	66275040	380	node3619.doduo.os	0
+chain	wfjsp4_5.txt 3	66275609	559	node3624.doduo.os	0
+chain	wfjsp3_1.txt 3	66275595	545	node3556.doduo.os	0
+chain	wfjsp1_1.txt 3	66275575	525	node3540.doduo.os	0
+chain	wfjsp1_4.txt 3	66275578	528	node3541.doduo.os	0
+chain	wfjsp2_4.txt 3	66275588	538	node3546.doduo.os	0
+chain	wfjsp1_9.txt 3	66275583	533	node3542.doduo.os	0
+chain	wfjsp1_8.txt 3	66275582	532	node3542.doduo.os	0
+chain	wfjsp2_10.txt 3	66275594	544	node3556.doduo.os	0
+chain	wfjsp2_9.txt 3	66275593	543	node3556.doduo.os	0
+chain	wfjsp1_2.txt 3	66275576	526	node3541.doduo.os	0
+chain	wfjsp1_10.txt 3	66275584	534	node3542.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Dauzere_02a.txt 1	66275467	504	node3620.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp21_9.txt 1	66275369	417	node3513.doduo.os	0
+chain	wfjsp1_7.txt 3	66275581	531	node3542.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Dauzere_08a.txt 1	66275479	515	node3529.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp14_2.txt 1	66275190	264	node3624.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Mk08.txt 1	66275459	496	node3557.doduo.os	0
+chain	wfjsp3_6.txt 3	66275600	550	node3562.doduo.os	0
+chain	wfjsp1_5.txt 3	66275579	529	node3541.doduo.os	0
+chain	wfjsp12_9.txt 2	66275041	381	node3620.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp14_9.txt 1	66275206	278	node3561.doduo.os	0
+chain	wfjsp2_6.txt 3	66275590	540	node3546.doduo.os	0
+chain	wfjsp3_10.txt 3	66275604	554	node3601.doduo.os	0
+chain	wfjsp3_4.txt 3	66275598	548	node3562.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp19_8.txt 1	66275320	376	node3536.doduo.os	0
+chain	wfjsp2_3.txt 3	66275587	537	node3546.doduo.os	0
+chain	wfjsp3_5.txt 3	66275599	549	node3562.doduo.os	0
+chain	wfjsp2_8.txt 3	66275592	542	node3556.doduo.os	0
+chain	wfjsp3_9.txt 3	66275603	553	node3601.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp14_3.txt 1	66275194	266	node3513.doduo.os	0
+chain	wfjsp2_7.txt 3	66275591	541	node3546.doduo.os	0
+chain	wfjsp4_1.txt 3	66275605	555	node3601.doduo.os	0
+chain	wfjsp4_6.txt 3	66275610	560	node3624.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Dauzere_11a.txt 1	66275485	521	node3555.doduo.os	0
+chain	wfjsp3_7.txt 3	66275601	551	node3601.doduo.os	0
+chain	wfjsp3_2.txt 3	66275596	546	node3556.doduo.os	0
+chain	wfjsp3_8.txt 3	66275602	552	node3601.doduo.os	0
+chain	wfjsp4_8.txt 3	66275612	562	node3624.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp16_7.txt 1	66275248	313	node3507.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Dauzere_01a.txt 1	66275465	502	node3618.doduo.os	0
+chain	wfjsp4_4.txt 3	66275608	558	node3601.doduo.os	0
+chain	wfjsp4_3.txt 3	66275607	557	node3601.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp20_8.txt 1	66275344	396	node3525.doduo.os	0
+chain	wfjsp4_7.txt 3	66275611	561	node3624.doduo.os	0
+chain	wfjsp4_2.txt 3	66275606	556	node3601.doduo.os	0
+chain	wfjsp12_10.txt 2	66275042	382	node3620.doduo.os	0
+chain	wfjsp12_3.txt 2	66275035	375	node3547.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp20_2.txt 1	66275328	384	node3608.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp24_5.txt 1	66275429	469	node3525.doduo.os	0
+chain	wfjsp4_9.txt 3	66275613	563	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp20_7.txt 1	66275342	394	node3524.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp20_10.txt 1	66275348	400	node3529.doduo.os	0
+chain	wfjsp17_5.txt 2	66275392	427	node3561.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp24_2.txt 1	66275423	463	node3507.doduo.os	0
+chain	Mk02.txt 2	66275554	504	node3507.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Dauzere_09a.txt 1	66275481	517	node3536.doduo.os	0
+chain	wfjsp4_10.txt 3	66275614	564	node3513.doduo.os	0
+chain	wfjsp14_3.txt 2	66275158	395	node3559.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp13_7.txt 1	66275180	254	node3547.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp24_8.txt 1	66275435	475	node3536.doduo.os	0
+chain	wfjsp23_7.txt 1	66274748	227	node3522.doduo.os	0
+chain	Mk01.txt 2	66275553	503	node3506.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp14_7.txt 1	66275202	274	node3537.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp24_9.txt 1	66275437	477	node3537.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Dauzere_05a.txt 1	66275474	510	node3507.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Dauzere_04a.txt 1	66275472	508	node3506.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp13_8.txt 1	66275182	256	node3555.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Dauzere_03a.txt 1	66275469	506	node3627.doduo.os	0
+chain	wfjsp14_2.txt 2	66275134	394	node3620.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp20_6.txt 1	66275340	392	node3514.doduo.os	0
+chain	wfjsp5_10.txt 3	66275624	574	node3513.doduo.os	0
+chain	wfjsp5_3.txt 3	66275617	567	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp24_7.txt 1	66275433	473	node3534.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Dauzere_10a.txt 1	66275484	520	node3544.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Dauzere_12a.txt 1	66275487	523	node3601.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp13_10.txt 1	66275186	260	node3601.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp13_9.txt 1	66275184	258	node3558.doduo.os	0
+chain	Mk04.txt 2	66275556	506	node3507.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 Mk10.txt 1	66275462	499	node3560.doduo.os	0
+chain	wfjsp5_9.txt 3	66275623	573	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp13_4.txt 1	66275174	248	node3536.doduo.os	0
+chain	wfjsp6_4.txt 3	66275628	578	node3514.doduo.os	0
+chain	wfjsp6_9.txt 3	66275633	583	node3514.doduo.os	0
+chain	wfjsp18_1.txt 2	66275421	433	node3617.doduo.os	0
+chain	wfjsp6_10.txt 3	66275634	584	node3514.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Dauzere_07a.txt 1	66275478	514	node3525.doduo.os	0
+chain	wfjsp5_8.txt 3	66275622	572	node3513.doduo.os	0
+chain	wfjsp5_1.txt 3	66275615	565	node3513.doduo.os	0
+chain	wfjsp5_7.txt 3	66275621	571	node3513.doduo.os	0
+chain	wfjsp5_4.txt 3	66275618	568	node3513.doduo.os	0
+chain	wfjsp5_6.txt 3	66275620	570	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp13_3.txt 1	66275172	246	node3532.doduo.os	0
+chain	wfjsp17_3.txt 2	66275365	425	node3627.doduo.os	0
+chain	wfjsp18_2.txt 2	66275448	434	node3541.doduo.os	0
+chain	wfjsp5_2.txt 3	66275616	566	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp20_5.txt 1	66275338	390	node3513.doduo.os	0
+chain	Mk03.txt 2	66275555	505	node3507.doduo.os	0
+chain	wfjsp23_9.txt 1	66274750	229	node3549.doduo.os	0
+chain	wfjsp6_3.txt 3	66275627	577	node3514.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp20_9.txt 1	66275346	398	node3525.doduo.os	0
+chain	wfjsp6_7.txt 3	66275631	581	node3514.doduo.os	0
+chain	wfjsp1_2.txt 4	66275838	788	node3558.doduo.os	0
+chain	wfjsp5_5.txt 3	66275619	569	node3513.doduo.os	0
+chain	wfjsp6_1.txt 3	66275625	575	node3513.doduo.os	0
+chain	wfjsp6_6.txt 3	66275630	580	node3514.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp24_6.txt 1	66275431	471	node3525.doduo.os	0
+chain	wfjsp2_9.txt 4	66275855	805	node3624.doduo.os	0
+chain	wfjsp2_2.txt 4	66275848	798	node3601.doduo.os	0
+chain	wfjsp2_7.txt 4	66275853	803	node3620.doduo.os	0
+chain	wfjsp3_5.txt 4	66275861	811	node3627.doduo.os	0
+chain	wfjsp1_7.txt 4	66275843	793	node3560.doduo.os	0
+chain	wfjsp6_8.txt 3	66275632	582	node3514.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp20_4.txt 1	66275336	388	node3513.doduo.os	0
+chain	wfjsp23_3.txt 1	66274742	223	node3560.doduo.os	0
+chain	wfjsp2_5.txt 4	66275851	801	node3601.doduo.os	0
+chain	wfjsp2_6.txt 4	66275852	802	node3617.doduo.os	0
+chain	wfjsp7_5.txt 3	66275639	589	node3518.doduo.os	0
+chain	wfjsp1_10.txt 4	66275846	796	node3601.doduo.os	0
+chain	wfjsp2_10.txt 4	66275856	806	node3624.doduo.os	0
+chain	wfjsp3_1.txt 4	66275857	807	node3624.doduo.os	0
+chain	wfjsp1_6.txt 4	66275842	792	node3560.doduo.os	0
+chain	wfjsp1_8.txt 4	66275844	794	node3601.doduo.os	0
+chain	wfjsp1_3.txt 4	66275839	789	node3558.doduo.os	0
+chain	wfjsp2_8.txt 4	66275854	804	node3624.doduo.os	0
+chain	wfjsp3_2.txt 4	66275858	808	node3627.doduo.os	0
+chain	wfjsp2_4.txt 4	66275850	800	node3601.doduo.os	0
+chain	wfjsp1_1.txt 4	66275837	787	node3558.doduo.os	0
+chain	wfjsp1_9.txt 4	66275845	795	node3601.doduo.os	0
+chain	wfjsp2_1.txt 4	66275847	797	node3601.doduo.os	0
+chain	wfjsp1_5.txt 4	66275841	791	node3560.doduo.os	0
+chain	wfjsp3_4.txt 4	66275860	810	node3627.doduo.os	0
+chain	wfjsp3_3.txt 4	66275859	809	node3627.doduo.os	0
+chain	wfjsp2_3.txt 4	66275849	799	node3601.doduo.os	0
+chain	wfjsp1_4.txt 4	66275840	790	node3560.doduo.os	0
+chain	wfjsp17_10.txt 2	66275420	432	node3617.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp24_3.txt 1	66275425	465	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp24_4.txt 1	66275427	467	node3514.doduo.os	0
+chain	wfjsp17_1.txt 2	66275363	423	node3543.doduo.os	0
+chain	wfjsp14_7.txt 2	66275162	399	node3625.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Dauzere_06a.txt 1	66275476	512	node3520.doduo.os	0
+chain	wfjsp6_2.txt 3	66275626	576	node3513.doduo.os	0
+chain	wfjsp18_4.txt 2	66275450	436	node3627.doduo.os	0
+chain	wfjsp7_10.txt 3	66275644	594	node3541.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp13_2.txt 1	66275170	244	node3529.doduo.os	0
+chain	wfjsp6_5.txt 3	66275629	579	node3514.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp22_5.txt 1	66275382	430	node3561.doduo.os	0
+chain	wfjsp18_10.txt 2	66275492	442	node3542.doduo.os	0
+chain	wfjsp17_8.txt 2	66275418	430	node3551.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp24_10.txt 1	66275439	479	node3557.doduo.os	0
+chain	wfjsp7_9.txt 3	66275643	593	node3540.doduo.os	0
+chain	wfjsp7_3.txt 3	66275637	587	node3514.doduo.os	0
+chain	wfjsp3_7.txt 4	66275863	813	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp20_3.txt 1	66275334	386	node3501.doduo.os	0
+chain	wfjsp13_2.txt 2	66275044	384	node3621.doduo.os	0
+chain	wfjsp3_10.txt 4	66275866	816	node3513.doduo.os	0
+chain	wfjsp4_5.txt 4	66275871	821	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp19_9.txt 1	66275322	378	node3540.doduo.os	0
+chain	wfjsp3_6.txt 4	66275862	812	node3507.doduo.os	0
+chain	wfjsp7_8.txt 3	66275642	592	node3518.doduo.os	0
+chain	wfjsp17_4.txt 2	66275391	426	node3560.doduo.os	0
+chain	wfjsp3_9.txt 4	66275865	815	node3513.doduo.os	0
+chain	wfjsp18_5.txt 2	66275470	437	node3555.doduo.os	0
+chain	wfjsp7_1.txt 3	66275635	585	node3514.doduo.os	0
+chain	wfjsp4_9.txt 4	66275875	825	node3513.doduo.os	0
+chain	wfjsp17_6.txt 2	66275416	428	node3544.doduo.os	0
+chain	wfjsp4_4.txt 4	66275870	820	node3513.doduo.os	0
+chain	wfjsp4_2.txt 4	66275868	818	node3513.doduo.os	0
+chain	wfjsp7_2.txt 3	66275636	586	node3514.doduo.os	0
+chain	wfjsp4_7.txt 4	66275873	823	node3513.doduo.os	0
+chain	wfjsp4_10.txt 4	66275876	826	node3513.doduo.os	0
+chain	wfjsp4_3.txt 4	66275869	819	node3513.doduo.os	0
+chain	wfjsp14_10.txt 2	66275212	402	node3514.doduo.os	0
+chain	wfjsp4_1.txt 4	66275867	817	node3513.doduo.os	0
+chain	wfjsp3_8.txt 4	66275864	814	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp23_5.txt 1	66275403	449	node3529.doduo.os	0
+chain	wfjsp4_8.txt 4	66275874	824	node3513.doduo.os	0
+chain	wfjsp5_9.txt 4	66275885	835	node3514.doduo.os	0
+chain	wfjsp7_4.txt 3	66275638	588	node3514.doduo.os	0
+chain	Mk01.txt 3	66275815	765	node3513.doduo.os	0
+chain	wfjsp13_7.txt 2	66275090	389	node3627.doduo.os	0
+chain	wfjsp7_6.txt 3	66275640	590	node3518.doduo.os	0
+chain	wfjsp4_6.txt 4	66275872	822	node3513.doduo.os	0
+chain	Mk07.txt 2	66275559	509	node3507.doduo.os	0
+chain	wfjsp5_10.txt 4	66275886	836	node3514.doduo.os	0
+chain	wfjsp11_4.txt 2	66274951	366	node3546.doduo.os	0
+chain	wfjsp13_3.txt 2	66275086	385	node3512.doduo.os	0
+chain	wfjsp8_5.txt 3	66275649	599	node3542.doduo.os	0
+chain	wfjsp14_8.txt 2	66275192	400	node3519.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Mk06.txt 1	66275455	492	node3535.doduo.os	0
+chain	wfjsp13_10.txt 2	66275132	392	node3615.doduo.os	0
+chain	wfjsp6_10.txt 4	66275896	846	node3560.doduo.os	0
+chain	wfjsp10_8.txt 3	66275672	622	node3555.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp13_6.txt 1	66275178	252	node3543.doduo.os	0
+chain	wfjsp8_10.txt 3	66275654	604	node3542.doduo.os	0
+chain	Mk05.txt 2	66275557	507	node3507.doduo.os	0
+chain	wfjsp14_6.txt 2	66275161	398	node3625.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp23_9.txt 1	66275411	457	node3561.doduo.os	0
+chain	wfjsp5_8.txt 4	66275884	834	node3514.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp23_4.txt 1	66275401	447	node3525.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp23_3.txt 1	66275399	445	node3514.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp23_8.txt 1	66275409	455	node3539.doduo.os	0
+chain	Mk02.txt 3	66275816	766	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp23_2.txt 1	66275397	443	node3511.doduo.os	0
+chain	wfjsp5_3.txt 4	66275879	829	node3514.doduo.os	0
+chain	wfjsp5_2.txt 4	66275878	828	node3513.doduo.os	0
+chain	wfjsp9_10.txt 3	66275664	614	node3546.doduo.os	0
+chain	wfjsp14_9.txt 2	66275193	401	node3557.doduo.os	0
+chain	wfjsp6_3.txt 4	66275889	839	node3543.doduo.os	0
+chain	wfjsp23_8.txt 1	66274749	228	node3549.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp23_6.txt 1	66275405	451	node3529.doduo.os	0
+chain	wfjsp5_4.txt 4	66275880	830	node3514.doduo.os	0
+chain	wfjsp18_3.txt 2	66275449	435	node3541.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp23_7.txt 1	66275407	453	node3532.doduo.os	0
+chain	wfjsp10_5.txt 3	66275669	619	node3547.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp23_1.txt 1	66275395	441	node3501.doduo.os	0
+chain	wfjsp6_6.txt 4	66275892	842	node3558.doduo.os	0
+chain	wfjsp6_8.txt 4	66275894	844	node3560.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp19_5.txt 1	66275314	370	node3514.doduo.os	0
+chain	wfjsp5_1.txt 4	66275877	827	node3513.doduo.os	0
+single	TSN1_2000_5_5 TSN1_2000_5_5 wfjsp23_10.txt 1	66275413	459	node3561.doduo.os	0
+chain	wfjsp5_7.txt 4	66275883	833	node3514.doduo.os	0
+chain	wfjsp6_2.txt 4	66275888	838	node3541.doduo.os	0
+chain	wfjsp5_6.txt 4	66275882	832	node3514.doduo.os	0
+chain	wfjsp10_1.txt 3	66275665	615	node3546.doduo.os	0
+chain	wfjsp6_9.txt 4	66275895	845	node3560.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Mk09.txt 1	66275461	498	node3559.doduo.os	0
+chain	wfjsp6_7.txt 4	66275893	843	node3558.doduo.os	0
+chain	Mk04.txt 3	66275818	768	node3514.doduo.os	0
+chain	wfjsp18_8.txt 2	66275490	440	node3542.doduo.os	0
+chain	wfjsp18_7.txt 2	66275489	439	node3542.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Dauzere_11a.txt 1	66275486	522	node3556.doduo.os	0
+chain	wfjsp6_5.txt 4	66275891	841	node3558.doduo.os	0
+chain	Mk08.txt 2	66275560	510	node3507.doduo.os	0
+chain	wfjsp13_5.txt 2	66275088	387	node3608.doduo.os	0
+chain	wfjsp8_9.txt 3	66275653	603	node3542.doduo.os	0
+chain	wfjsp7_5.txt 4	66275901	851	node3601.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp22_1.txt 1	66275374	422	node3532.doduo.os	0
+chain	Mk03.txt 3	66275817	767	node3514.doduo.os	0
+chain	wfjsp7_8.txt 4	66275904	854	node3601.doduo.os	0
+chain	wfjsp10_7.txt 3	66275671	621	node3547.doduo.os	0
+chain	wfjsp7_7.txt 3	66275641	591	node3518.doduo.os	0
+chain	wfjsp9_6.txt 3	66275660	610	node3543.doduo.os	0
+chain	wfjsp8_3.txt 3	66275647	597	node3541.doduo.os	0
+chain	wfjsp8_4.txt 3	66275648	598	node3542.doduo.os	0
+chain	wfjsp6_4.txt 4	66275890	840	node3549.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp16_5.txt 1	66275245	310	node3507.doduo.os	0
+chain	wfjsp10_4.txt 3	66275668	618	node3547.doduo.os	0
+chain	wfjsp8_8.txt 3	66275652	602	node3542.doduo.os	0
+chain	wfjsp6_1.txt 4	66275887	837	node3518.doduo.os	0
+chain	Dauzere_02a.txt 2	66275564	514	node3513.doduo.os	0
+chain	wfjsp17_8.txt 3	66275742	692	node3625.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Dauzere_08a.txt 1	66275480	516	node3532.doduo.os	0
+chain	wfjsp9_8.txt 3	66275662	612	node3546.doduo.os	0
+chain	wfjsp5_5.txt 4	66275881	831	node3514.doduo.os	0
+chain	wfjsp1_3.txt 5	66276101	1051	node3546.doduo.os	0
+chain	wfjsp1_6.txt 5	66276104	1054	node3556.doduo.os	0
+chain	wfjsp1_2.txt 5	66276100	1050	node3543.doduo.os	0
+chain	wfjsp18_7.txt 3	66275751	701	node3507.doduo.os	0
+chain	wfjsp1_10.txt 5	66276108	1058	node3558.doduo.os	0
+chain	wfjsp2_10.txt 5	66276118	1068	node3561.doduo.os	0
+chain	wfjsp3_3.txt 5	66276121	1071	node3601.doduo.os	0
+chain	wfjsp1_4.txt 5	66276102	1052	node3547.doduo.os	0
+chain	wfjsp7_10.txt 4	66275906	856	node3601.doduo.os	0
+chain	wfjsp2_3.txt 5	66276111	1061	node3559.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp21_5.txt 1	66275358	410	node3615.doduo.os	0
+chain	wfjsp3_5.txt 5	66276123	1073	node3608.doduo.os	0
+chain	wfjsp2_8.txt 5	66276116	1066	node3560.doduo.os	0
+chain	wfjsp1_9.txt 5	66276107	1057	node3556.doduo.os	0
+chain	wfjsp8_1.txt 3	66275645	595	node3541.doduo.os	0
+chain	wfjsp8_5.txt 4	66275911	861	node3624.doduo.os	0
+chain	wfjsp1_8.txt 5	66276106	1056	node3556.doduo.os	0
+chain	wfjsp1_1.txt 5	66276099	1049	node3542.doduo.os	0
+chain	wfjsp1_7.txt 5	66276105	1055	node3556.doduo.os	0
+chain	wfjsp7_9.txt 4	66275905	855	node3601.doduo.os	0
+chain	wfjsp2_2.txt 5	66276110	1060	node3558.doduo.os	0
+chain	wfjsp17_2.txt 2	66275364	424	node3562.doduo.os	0
+chain	wfjsp9_4.txt 3	66275658	608	node3543.doduo.os	0
+chain	wfjsp2_4.txt 5	66276112	1062	node3559.doduo.os	0
+chain	wfjsp2_9.txt 5	66276117	1067	node3561.doduo.os	0
+chain	wfjsp2_5.txt 5	66276113	1063	node3559.doduo.os	0
+chain	wfjsp1_5.txt 5	66276103	1053	node3547.doduo.os	0
+chain	wfjsp2_7.txt 5	66276115	1065	node3560.doduo.os	0
+chain	Mk05.txt 3	66275819	769	node3514.doduo.os	0
+chain	wfjsp2_1.txt 5	66276109	1059	node3558.doduo.os	0
+chain	wfjsp3_2.txt 5	66276120	1070	node3561.doduo.os	0
+chain	wfjsp18_9.txt 2	66275491	441	node3542.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp22_4.txt 1	66275380	428	node3545.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp22_8.txt 1	66275388	436	node3620.doduo.os	0
+chain	wfjsp2_6.txt 5	66276114	1064	node3559.doduo.os	0
+chain	wfjsp19_10.txt 2	66275502	452	node3615.doduo.os	0
+chain	wfjsp3_4.txt 5	66276122	1072	node3601.doduo.os	0
+chain	Mk01.txt 4	66276077	1027	node3561.doduo.os	0
+chain	wfjsp18_1.txt 3	66275745	695	node3506.doduo.os	0
+chain	wfjsp18_6.txt 2	66275488	438	node3520.doduo.os	0
+chain	Mk06.txt 2	66275558	508	node3507.doduo.os	0
+chain	wfjsp3_1.txt 5	66276119	1069	node3561.doduo.os	0
+chain	wfjsp8_6.txt 3	66275650	600	node3542.doduo.os	0
+chain	wfjsp13_1.txt 2	66275043	383	node3620.doduo.os	0
+chain	wfjsp8_6.txt 4	66275912	862	node3624.doduo.os	0
+chain	wfjsp17_7.txt 2	66275417	429	node3544.doduo.os	0
+chain	Mk07.txt 3	66275821	771	node3514.doduo.os	0
+chain	wfjsp9_1.txt 3	66275655	605	node3542.doduo.os	0
+chain	wfjsp19_6.txt 2	66275498	448	node3558.doduo.os	0
+chain	wfjsp7_2.txt 4	66275898	848	node3560.doduo.os	0
+chain	wfjsp7_6.txt 4	66275902	852	node3601.doduo.os	0
+chain	wfjsp11_1.txt 3	66275675	625	node3555.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp15_1.txt 1	66275210	282	node3617.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp14_10.txt 1	66275208	280	node3563.doduo.os	0
+chain	wfjsp8_2.txt 4	66275908	858	node3617.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp21_3.txt 1	66275354	406	node3561.doduo.os	0
+chain	wfjsp10_6.txt 3	66275670	620	node3547.doduo.os	0
+chain	wfjsp11_10.txt 3	66275684	634	node3557.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp22_9.txt 1	66275390	438	node3622.doduo.os	0
+chain	wfjsp7_4.txt 4	66275900	850	node3601.doduo.os	0
+chain	wfjsp3_7.txt 5	66276125	1075	node3507.doduo.os	0
+chain	Mk04.txt 4	66276080	1030	node3615.doduo.os	0
+chain	wfjsp4_8.txt 5	66276136	1086	node3541.doduo.os	0
+chain	wfjsp8_1.txt 4	66275907	857	node3617.doduo.os	0
+chain	wfjsp8_2.txt 3	66275646	596	node3541.doduo.os	0
+chain	wfjsp4_7.txt 5	66276135	1085	node3520.doduo.os	0
+chain	wfjsp3_6.txt 5	66276124	1074	node3506.doduo.os	0
+chain	wfjsp19_7.txt 2	66275499	449	node3558.doduo.os	0
+chain	wfjsp3_9.txt 5	66276127	1077	node3507.doduo.os	0
+chain	wfjsp18_10.txt 3	66275754	704	node3507.doduo.os	0
+chain	wfjsp4_4.txt 5	66276132	1082	node3514.doduo.os	0
+chain	wfjsp3_10.txt 5	66276128	1078	node3507.doduo.os	0
+chain	wfjsp4_9.txt 5	66276137	1087	node3542.doduo.os	0
+chain	wfjsp9_5.txt 3	66275659	609	node3543.doduo.os	0
+chain	wfjsp4_3.txt 5	66276131	1081	node3513.doduo.os	0
+chain	Mk02.txt 4	66276078	1028	node3561.doduo.os	0
+chain	wfjsp4_6.txt 5	66276134	1084	node3518.doduo.os	0
+chain	wfjsp4_10.txt 5	66276138	1088	node3542.doduo.os	0
+chain	wfjsp3_8.txt 5	66276126	1076	node3507.doduo.os	0
+chain	wfjsp4_5.txt 5	66276133	1083	node3514.doduo.os	0
+chain	wfjsp7_1.txt 4	66275897	847	node3560.doduo.os	0
+chain	wfjsp20_2.txt 2	66275504	454	node3615.doduo.os	0
+chain	wfjsp19_1.txt 2	66275493	443	node3542.doduo.os	0
+chain	wfjsp8_10.txt 4	66275916	866	node3627.doduo.os	0
+chain	wfjsp4_1.txt 5	66276129	1079	node3507.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp21_2.txt 1	66275352	404	node3547.doduo.os	0
+chain	wfjsp10_10.txt 3	66275674	624	node3555.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp15_3.txt 1	66275219	286	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp15_5.txt 1	66275223	290	node3529.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp15_9.txt 1	66275231	298	node3555.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp15_2.txt 1	66275217	284	node3501.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp15_7.txt 1	66275227	294	node3542.doduo.os	0
+chain	wfjsp20_1.txt 2	66275503	453	node3615.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp15_6.txt 1	66275225	292	node3535.doduo.os	0
+chain	wfjsp17_7.txt 3	66275741	691	node3625.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp15_8.txt 1	66275229	296	node3545.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp15_4.txt 1	66275221	288	node3527.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp16_2.txt 1	66275237	304	node3618.doduo.os	0
+chain	wfjsp4_2.txt 5	66276130	1080	node3507.doduo.os	0
+chain	wfjsp17_10.txt 3	66275744	694	node3625.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp16_1.txt 1	66275235	302	node3559.doduo.os	0
+chain	wfjsp5_10.txt 5	66276148	1098	node3546.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp21_7.txt 1	66275366	414	node3501.doduo.os	0
+chain	wfjsp20_4.txt 2	66275506	456	node3615.doduo.os	0
+chain	wfjsp9_2.txt 4	66275918	868	node3627.doduo.os	0
+chain	wfjsp11_6.txt 3	66275680	630	node3556.doduo.os	0
+chain	wfjsp11_9.txt 3	66275683	633	node3557.doduo.os	0
+chain	wfjsp17_9.txt 2	66275419	431	node3556.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp22_2.txt 1	66275376	424	node3540.doduo.os	0
+chain	wfjsp18_2.txt 3	66275746	696	node3507.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp15_10.txt 1	66275233	300	node3556.doduo.os	0
+chain	wfjsp8_8.txt 4	66275914	864	node3627.doduo.os	0
+chain	wfjsp6_1.txt 5	66276149	1099	node3546.doduo.os	0
+chain	wfjsp9_7.txt 3	66275661	611	node3543.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp22_3.txt 1	66275378	426	node3542.doduo.os	0
+chain	wfjsp5_9.txt 5	66276147	1097	node3545.doduo.os	0
+chain	wfjsp10_9.txt 3	66275673	623	node3555.doduo.os	0
+chain	wfjsp5_6.txt 5	66276144	1094	node3545.doduo.os	0
+chain	wfjsp20_10.txt 2	66275512	462	node3619.doduo.os	0
+chain	wfjsp18_8.txt 3	66275752	702	node3507.doduo.os	0
+chain	wfjsp5_1.txt 5	66276139	1089	node3542.doduo.os	0
+chain	wfjsp17_5.txt 3	66275739	689	node3624.doduo.os	0
+chain	wfjsp5_3.txt 5	66276141	1091	node3542.doduo.os	0
+chain	wfjsp8_9.txt 4	66275915	865	node3627.doduo.os	0
+chain	wfjsp17_4.txt 3	66275738	688	node3624.doduo.os	0
+chain	wfjsp9_3.txt 3	66275657	607	node3543.doduo.os	0
+chain	wfjsp14_2.txt 3	66275706	656	node3561.doduo.os	0
+chain	wfjsp18_4.txt 3	66275748	698	node3507.doduo.os	0
+chain	wfjsp5_8.txt 5	66276146	1096	node3545.doduo.os	0
+chain	wfjsp18_5.txt 3	66275749	699	node3507.doduo.os	0
+chain	Dauzere_04a.txt 2	66275566	516	node3513.doduo.os	0
+chain	wfjsp8_4.txt 4	66275910	860	node3624.doduo.os	0
+chain	wfjsp5_5.txt 5	66276143	1093	node3543.doduo.os	0
+chain	wfjsp6_10.txt 5	66276158	1108	node3558.doduo.os	0
+chain	wfjsp5_4.txt 5	66276142	1092	node3543.doduo.os	0
+chain	Mk03.txt 4	66276079	1029	node3561.doduo.os	0
+chain	wfjsp6_9.txt 5	66276157	1107	node3556.doduo.os	0
+chain	wfjsp18_9.txt 3	66275753	703	node3507.doduo.os	0
+chain	wfjsp19_8.txt 2	66275500	450	node3608.doduo.os	0
+chain	wfjsp17_9.txt 3	66275743	693	node3625.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp16_4.txt 1	66275243	308	node3506.doduo.os	0
+chain	wfjsp9_2.txt 3	66275656	606	node3542.doduo.os	0
+chain	wfjsp10_2.txt 3	66275666	616	node3546.doduo.os	0
+chain	wfjsp17_6.txt 3	66275740	690	node3624.doduo.os	0
+chain	wfjsp5_7.txt 5	66276145	1095	node3545.doduo.os	0
+chain	wfjsp6_3.txt 5	66276151	1101	node3547.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp16_8.txt 1	66275251	316	node3507.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp16_9.txt 1	66275253	318	node3507.doduo.os	0
+chain	wfjsp5_2.txt 5	66276140	1090	node3542.doduo.os	0
+chain	wfjsp6_4.txt 5	66276152	1102	node3547.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp21_8.txt 1	66275368	416	node3513.doduo.os	0
+chain	wfjsp6_2.txt 5	66276150	1100	node3547.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp16_10.txt 1	66275255	320	node3507.doduo.os	0
+chain	wfjsp10_5.txt 4	66275931	881	node3513.doduo.os	0
+chain	wfjsp19_9.txt 2	66275501	451	node3615.doduo.os	0
+chain	wfjsp19_6.txt 3	66275760	710	node3507.doduo.os	0
+chain	Mk08.txt 3	66275822	772	node3514.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp16_3.txt 1	66275241	306	node3501.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp16_7.txt 1	66275249	314	node3507.doduo.os	0
+chain	Dauzere_03a.txt 2	66275565	515	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp16_6.txt 1	66275247	312	node3507.doduo.os	0
+chain	wfjsp6_6.txt 5	66276154	1104	node3556.doduo.os	0
+chain	wfjsp9_5.txt 4	66275921	871	node3513.doduo.os	0
+chain	wfjsp13_4.txt 2	66275087	386	node3512.doduo.os	0
+chain	wfjsp6_7.txt 5	66276155	1105	node3556.doduo.os	0
+chain	wfjsp22_8.txt 2	66275530	480	node3620.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp21_9.txt 1	66275370	418	node3513.doduo.os	0
+chain	Dauzere_01a.txt 3	66275825	775	node3544.doduo.os	0
+chain	wfjsp10_10.txt 4	66275936	886	node3514.doduo.os	0
+chain	wfjsp8_3.txt 4	66275909	859	node3620.doduo.os	0
+chain	wfjsp9_4.txt 4	66275920	870	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp22_7.txt 1	66275386	434	node3618.doduo.os	0
+chain	wfjsp19_1.txt 3	66275755	705	node3507.doduo.os	0
+chain	wfjsp7_1.txt 5	66276159	1109	node3558.doduo.os	0
+chain	wfjsp6_5.txt 5	66276153	1103	node3549.doduo.os	0
+chain	wfjsp8_7.txt 3	66275651	601	node3542.doduo.os	0
+chain	wfjsp7_3.txt 4	66275899	849	node3601.doduo.os	0
+chain	wfjsp20_1.txt 3	66275765	715	node3546.doduo.os	0
+chain	wfjsp19_8.txt 3	66275762	712	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp22_6.txt 1	66275384	432	node3601.doduo.os	0
+chain	wfjsp7_9.txt 5	66276167	1117	node3561.doduo.os	0
+chain	wfjsp17_1.txt 3	66275735	685	node3624.doduo.os	0
+chain	wfjsp22_9.txt 2	66275531	481	node3620.doduo.os	0
+chain	Mk05.txt 4	66276081	1031	node3625.doduo.os	0
+chain	wfjsp14_1.txt 2	66275133	393	node3620.doduo.os	0
+chain	wfjsp9_1.txt 4	66275917	867	node3627.doduo.os	0
+chain	wfjsp13_9.txt 2	66275131	391	node3556.doduo.os	0
+chain	wfjsp7_4.txt 5	66276162	1112	node3559.doduo.os	0
+chain	wfjsp7_7.txt 4	66275903	853	node3601.doduo.os	0
+chain	Dauzere_03a.txt 3	66275827	777	node3544.doduo.os	0
+chain	wfjsp6_8.txt 5	66276156	1106	node3556.doduo.os	0
+chain	wfjsp11_7.txt 3	66275681	631	node3557.doduo.os	0
+chain	Mk06.txt 3	66275820	770	node3514.doduo.os	0
+chain	wfjsp19_3.txt 2	66275495	445	node3542.doduo.os	0
+chain	wfjsp7_5.txt 5	66276163	1113	node3559.doduo.os	0
+chain	wfjsp10_2.txt 4	66275928	878	node3513.doduo.os	0
+chain	wfjsp18_1.txt 4	66276007	957	node3509.doduo.os	0
+chain	wfjsp19_2.txt 2	66275494	444	node3542.doduo.os	0
+chain	wfjsp17_3.txt 3	66275737	687	node3624.doduo.os	0
+chain	wfjsp20_5.txt 2	66275507	457	node3617.doduo.os	0
+chain	wfjsp12_10.txt 3	66275694	644	node3561.doduo.os	0
+chain	wfjsp10_3.txt 3	66275667	617	node3546.doduo.os	0
+chain	wfjsp19_4.txt 3	66275758	708	node3507.doduo.os	0
+chain	wfjsp21_10.txt 2	66275522	472	node3619.doduo.os	0
+chain	wfjsp10_8.txt 4	66275934	884	node3514.doduo.os	0
+chain	wfjsp18_3.txt 3	66275747	697	node3507.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp21_1.txt 1	66275350	402	node3536.doduo.os	0
+chain	wfjsp17_2.txt 3	66275736	686	node3624.doduo.os	0
+chain	wfjsp10_4.txt 4	66275930	880	node3513.doduo.os	0
+chain	wfjsp19_10.txt 3	66275764	714	node3546.doduo.os	0
+chain	wfjsp19_4.txt 2	66275496	446	node3558.doduo.os	0
+chain	wfjsp14_4.txt 2	66275159	396	node3608.doduo.os	0
+chain	wfjsp22_5.txt 2	66275527	477	node3619.doduo.os	0
+chain	Mk07.txt 4	66276083	1033	node3507.doduo.os	0
+chain	wfjsp20_9.txt 2	66275511	461	node3619.doduo.os	0
+chain	wfjsp10_6.txt 4	66275932	882	node3513.doduo.os	0
+chain	wfjsp20_8.txt 3	66275772	722	node3547.doduo.os	0
+chain	wfjsp9_9.txt 3	66275663	613	node3546.doduo.os	0
+chain	wfjsp7_7.txt 5	66276165	1115	node3560.doduo.os	0
+chain	wfjsp10_1.txt 4	66275927	877	node3513.doduo.os	0
+chain	wfjsp22_4.txt 2	66275526	476	node3619.doduo.os	0
+chain	wfjsp20_5.txt 3	66275769	719	node3547.doduo.os	0
+chain	Dauzere_02a.txt 3	66275826	776	node3544.doduo.os	0
+chain	wfjsp22_5.txt 3	66275789	739	node3608.doduo.os	0
+chain	Dauzere_01a.txt 2	66275563	513	node3513.doduo.os	0
+chain	wfjsp17_8.txt 4	66276004	954	node3509.doduo.os	0
+chain	wfjsp23_5.txt 1	66274746	225	node3621.doduo.os	0
+chain	wfjsp7_8.txt 5	66276166	1116	node3560.doduo.os	0
+chain	wfjsp9_10.txt 4	66275926	876	node3513.doduo.os	0
+chain	wfjsp11_8.txt 3	66275682	632	node3557.doduo.os	0
+chain	wfjsp10_9.txt 4	66275935	885	node3514.doduo.os	0
+chain	wfjsp20_7.txt 3	66275771	721	node3547.doduo.os	0
+chain	wfjsp7_2.txt 5	66276160	1110	node3558.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp21_10.txt 1	66275372	420	node3524.doduo.os	0
+chain	wfjsp8_5.txt 5	66276173	1123	node3601.doduo.os	0
+chain	wfjsp8_9.txt 5	66276177	1127	node3608.doduo.os	0
+chain	wfjsp11_2.txt 3	66275676	626	node3555.doduo.os	0
+chain	wfjsp14_5.txt 3	66275709	659	node3561.doduo.os	0
+chain	wfjsp8_10.txt 5	66276178	1128	node3615.doduo.os	0
+chain	wfjsp12_2.txt 3	66275686	636	node3558.doduo.os	0
+chain	wfjsp10_3.txt 4	66275929	879	node3513.doduo.os	0
+chain	wfjsp8_3.txt 5	66276171	1121	node3561.doduo.os	0
+chain	wfjsp20_6.txt 3	66275770	720	node3547.doduo.os	0
+chain	Dauzere_05a.txt 3	66275829	779	node3547.doduo.os	0
+chain	wfjsp19_5.txt 2	66275497	447	node3558.doduo.os	0
+chain	wfjsp20_3.txt 2	66275505	455	node3615.doduo.os	0
+chain	wfjsp18_4.txt 4	66276010	960	node3509.doduo.os	0
+chain	wfjsp12_1.txt 3	66275685	635	node3557.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp21_4.txt 1	66275356	408	node3608.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp21_6.txt 1	66275360	412	node3621.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Dauzere_09a.txt 1	66275482	518	node3540.doduo.os	0
+chain	wfjsp21_1.txt 2	66275513	463	node3619.doduo.os	0
+chain	wfjsp20_6.txt 2	66275508	458	node3617.doduo.os	0
+chain	wfjsp11_5.txt 3	66275679	629	node3556.doduo.os	0
+chain	wfjsp9_6.txt 4	66275922	872	node3513.doduo.os	0
+chain	Mk01.txt 5	66276339	1289	node3507.doduo.os	0
+chain	Dauzere_10a.txt 2	66275572	522	node3540.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Mk10.txt 1	66275463	500	node3615.doduo.os	0
+chain	wfjsp18_5.txt 4	66276011	961	node3509.doduo.os	0
+chain	wfjsp18_6.txt 4	66276012	962	node3509.doduo.os	0
+chain	wfjsp19_5.txt 3	66275759	709	node3507.doduo.os	0
+chain	wfjsp12_5.txt 3	66275689	639	node3558.doduo.os	0
+chain	wfjsp20_4.txt 3	66275768	718	node3547.doduo.os	0
+chain	wfjsp18_10.txt 4	66276016	966	node3509.doduo.os	0
+chain	wfjsp13_8.txt 2	66275130	390	node3518.doduo.os	0
+chain	wfjsp19_3.txt 3	66275757	707	node3507.doduo.os	0
+chain	wfjsp7_10.txt 5	66276168	1118	node3561.doduo.os	0
+chain	wfjsp18_9.txt 4	66276015	965	node3509.doduo.os	0
+chain	wfjsp17_4.txt 4	66276000	950	node3509.doduo.os	0
+chain	Mk02.txt 5	66276340	1290	node3507.doduo.os	0
+chain	wfjsp18_3.txt 4	66276009	959	node3509.doduo.os	0
+chain	wfjsp20_9.txt 3	66275773	723	node3549.doduo.os	0
+chain	wfjsp9_8.txt 4	66275924	874	node3513.doduo.os	0
+chain	wfjsp18_2.txt 4	66276008	958	node3509.doduo.os	0
+chain	wfjsp22_2.txt 2	66275524	474	node3619.doduo.os	0
+chain	wfjsp13_6.txt 3	66275700	650	node3561.doduo.os	0
+chain	wfjsp7_3.txt 5	66276161	1111	node3559.doduo.os	0
+chain	wfjsp20_4.txt 4	66276030	980	node3509.doduo.os	0
+chain	wfjsp8_1.txt 5	66276169	1119	node3561.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 Dauzere_12a.txt 1	66273395	524	node3608.doduo.os	0
+chain	Dauzere_11a.txt 2	66275573	523	node3540.doduo.os	0
+chain	wfjsp8_6.txt 5	66276174	1124	node3601.doduo.os	0
+chain	wfjsp19_7.txt 3	66275761	711	node3513.doduo.os	0
+chain	wfjsp20_2.txt 3	66275766	716	node3546.doduo.os	0
+chain	wfjsp17_5.txt 4	66276001	951	node3509.doduo.os	0
+chain	wfjsp11_1.txt 4	66275937	887	node3514.doduo.os	0
+chain	wfjsp8_2.txt 5	66276170	1120	node3561.doduo.os	0
+chain	wfjsp14_1.txt 3	66275705	655	node3561.doduo.os	0
+chain	wfjsp10_10.txt 5	66276198	1148	node3542.doduo.os	0
+chain	wfjsp8_4.txt 5	66276172	1122	node3562.doduo.os	0
+chain	wfjsp17_9.txt 4	66276005	955	node3509.doduo.os	0
+chain	wfjsp10_7.txt 5	66276195	1145	node3520.doduo.os	0
+chain	wfjsp12_9.txt 3	66275693	643	node3561.doduo.os	0
+chain	wfjsp9_9.txt 4	66275925	875	node3513.doduo.os	0
+chain	wfjsp20_10.txt 3	66275774	724	node3549.doduo.os	0
+chain	wfjsp10_6.txt 5	66276194	1144	node3518.doduo.os	0
+chain	wfjsp11_10.txt 4	66275946	896	node3540.doduo.os	0
+chain	wfjsp7_6.txt 5	66276164	1114	node3559.doduo.os	0
+chain	wfjsp11_9.txt 4	66275945	895	node3540.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp23_2.txt 1	66275398	444	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp23_6.txt 1	66275406	452	node3532.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp23_1.txt 1	66275396	442	node3507.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp23_7.txt 1	66275408	454	node3534.doduo.os	0
+chain	wfjsp9_10.txt 5	66276188	1138	node3625.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp23_3.txt 1	66275400	446	node3524.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp23_8.txt 1	66275410	456	node3555.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp23_4.txt 1	66275402	448	node3526.doduo.os	0
+chain	Mk08.txt 4	66276084	1034	node3513.doduo.os	0
+chain	wfjsp12_4.txt 3	66275688	638	node3558.doduo.os	0
+chain	wfjsp10_9.txt 5	66276197	1147	node3541.doduo.os	0
+chain	wfjsp16_9.txt 2	66275332	421	node3557.doduo.os	0
+chain	Dauzere_09a.txt 3	66275833	783	node3555.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp23_9.txt 1	66275412	458	node3561.doduo.os	0
+chain	wfjsp20_8.txt 2	66275510	460	node3617.doduo.os	0
+chain	wfjsp12_1.txt 4	66275947	897	node3540.doduo.os	0
+chain	wfjsp17_10.txt 4	66276006	956	node3509.doduo.os	0
+chain	wfjsp20_5.txt 4	66276031	981	node3509.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp22_10.txt 1	66275394	440	node3501.doduo.os	0
+chain	wfjsp21_10.txt 3	66275784	734	node3601.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp23_10.txt 1	66275414	460	node3561.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp23_5.txt 1	66275404	450	node3529.doduo.os	0
+chain	wfjsp10_7.txt 4	66275933	883	node3513.doduo.os	0
+chain	Mk06.txt 4	66276082	1032	node3627.doduo.os	0
+chain	Mk04.txt 5	66276342	1292	node3507.doduo.os	0
+chain	wfjsp18_8.txt 4	66276014	964	node3509.doduo.os	0
+chain	Dauzere_04a.txt 4	66276090	1040	node3514.doduo.os	0
+chain	wfjsp14_7.txt 3	66275711	661	node3562.doduo.os	0
+chain	wfjsp8_7.txt 4	66275913	863	node3624.doduo.os	0
+chain	wfjsp10_5.txt 5	66276193	1143	node3514.doduo.os	0
+chain	wfjsp22_8.txt 3	66275792	742	node3618.doduo.os	0
+chain	wfjsp9_5.txt 5	66276183	1133	node3620.doduo.os	0
+chain	wfjsp8_7.txt 5	66276175	1125	node3601.doduo.os	0
+chain	wfjsp24_2.txt 2	66275544	494	node3624.doduo.os	0
+chain	wfjsp22_1.txt 2	66275523	473	node3619.doduo.os	0
+chain	wfjsp9_3.txt 4	66275919	869	node3507.doduo.os	0
+chain	Dauzere_06a.txt 3	66275830	780	node3547.doduo.os	0
+chain	wfjsp9_1.txt 5	66276179	1129	node3615.doduo.os	0
+chain	Dauzere_07a.txt 2	66275569	519	node3513.doduo.os	0
+chain	Mk03.txt 5	66276341	1291	node3507.doduo.os	0
+chain	wfjsp9_7.txt 4	66275923	873	node3513.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp24_3.txt 1	66275426	466	node3513.doduo.os	0
+chain	wfjsp9_9.txt 5	66276187	1137	node3624.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp24_7.txt 1	66275434	474	node3534.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp24_9.txt 1	66275438	478	node3544.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp24_1.txt 1	66275422	462	node3501.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp24_10.txt 1	66275440	480	node3557.doduo.os	0
+chain	Dauzere_06a.txt 2	66275568	518	node3513.doduo.os	0
+chain	wfjsp19_6.txt 4	66276022	972	node3509.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp24_4.txt 1	66275428	468	node3525.doduo.os	0
+chain	wfjsp10_1.txt 5	66276189	1139	node3506.doduo.os	0
+chain	wfjsp11_6.txt 4	66275942	892	node3520.doduo.os	0
+chain	wfjsp10_4.txt 5	66276192	1142	node3514.doduo.os	0
+chain	wfjsp12_8.txt 3	66275692	642	node3561.doduo.os	0
+chain	wfjsp14_10.txt 3	66275714	664	node3562.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp24_2.txt 1	66275424	464	node3507.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp24_5.txt 1	66275430	470	node3525.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp24_6.txt 1	66275432	472	node3525.doduo.os	0
+chain	Dauzere_09a.txt 2	66275571	521	node3540.doduo.os	0
+single	TSN1_10000_10_5 TSN1_10000_10_5 wfjsp24_8.txt 1	66275436	476	node3536.doduo.os	0
+chain	wfjsp12_2.txt 4	66275948	898	node3540.doduo.os	0
+chain	wfjsp22_6.txt 2	66275528	478	node3620.doduo.os	0
+chain	wfjsp19_8.txt 4	66276024	974	node3509.doduo.os	0
+chain	Dauzere_03a.txt 4	66276089	1039	node3514.doduo.os	0
+chain	wfjsp14_5.txt 4	66275971	921	node3618.doduo.os	0
+chain	wfjsp18_6.txt 5	66276274	1224	node3545.doduo.os	0
+chain	wfjsp20_3.txt 3	66275767	717	node3546.doduo.os	0
+chain	wfjsp18_6.txt 3	66275750	700	node3507.doduo.os	0
+chain	Mk05.txt 5	66276343	1293	node3507.doduo.os	0
+chain	wfjsp12_9.txt 4	66275955	905	node3544.doduo.os	0
+chain	wfjsp18_7.txt 4	66276013	963	node3509.doduo.os	0
+chain	wfjsp10_8.txt 5	66276196	1146	node3541.doduo.os	0
+chain	wfjsp21_3.txt 2	66275515	465	node3619.doduo.os	0
+chain	wfjsp19_10.txt 4	66276026	976	node3509.doduo.os	0
+chain	wfjsp18_4.txt 5	66276272	1222	node3545.doduo.os	0
+chain	wfjsp17_7.txt 4	66276003	953	node3509.doduo.os	0
+chain	wfjsp12_3.txt 3	66275687	637	node3558.doduo.os	0
+chain	wfjsp17_6.txt 4	66276002	952	node3509.doduo.os	0
+chain	wfjsp13_3.txt 3	66275697	647	node3561.doduo.os	0
+chain	wfjsp12_5.txt 4	66275951	901	node3542.doduo.os	0
+chain	wfjsp9_2.txt 5	66276180	1130	node3615.doduo.os	0
+chain	wfjsp10_2.txt 5	66276190	1140	node3513.doduo.os	0
+chain	wfjsp16_8.txt 3	66275732	682	node3620.doduo.os	0
+chain	wfjsp22_3.txt 2	66275525	475	node3619.doduo.os	0
+chain	wfjsp11_3.txt 3	66275677	627	node3556.doduo.os	0
+chain	wfjsp19_1.txt 4	66276017	967	node3509.doduo.os	0
+chain	wfjsp12_7.txt 3	66275691	641	node3560.doduo.os	0
+chain	Dauzere_08a.txt 2	66275570	520	node3519.doduo.os	0
+chain	wfjsp20_2.txt 4	66276028	978	node3509.doduo.os	0
+chain	wfjsp22_9.txt 3	66275793	743	node3618.doduo.os	0
+chain	wfjsp21_10.txt 4	66276046	996	node3514.doduo.os	0
+chain	wfjsp9_8.txt 5	66276186	1136	node3620.doduo.os	0
+chain	wfjsp11_4.txt 3	66275678	628	node3556.doduo.os	0
+chain	wfjsp17_2.txt 4	66275998	948	node3509.doduo.os	0
+chain	wfjsp18_10.txt 5	66276278	1228	node3545.doduo.os	0
+chain	Dauzere_12a.txt 2	66275574	524	node3540.doduo.os	0
+chain	wfjsp21_4.txt 3	66275778	728	node3559.doduo.os	0
+chain	wfjsp17_8.txt 5	66276266	1216	node3542.doduo.os	0
+chain	wfjsp21_4.txt 2	66275516	466	node3619.doduo.os	0
+chain	wfjsp13_1.txt 3	66275695	645	node3561.doduo.os	0
+chain	wfjsp18_5.txt 5	66276273	1223	node3545.doduo.os	0
+chain	wfjsp14_2.txt 4	66275968	918	node3562.doduo.os	0
+chain	wfjsp20_7.txt 2	66275509	459	node3617.doduo.os	0
+chain	wfjsp8_8.txt 5	66276176	1126	node3601.doduo.os	0
+chain	Dauzere_05a.txt 2	66275567	517	node3513.doduo.os	0
+chain	wfjsp9_6.txt 5	66276184	1134	node3620.doduo.os	0
+chain	wfjsp24_9.txt 2	66275551	501	node3506.doduo.os	0
+chain	wfjsp20_1.txt 4	66276027	977	node3509.doduo.os	0
+chain	wfjsp16_2.txt 2	66275307	414	node3540.doduo.os	0
+chain	wfjsp20_3.txt 4	66276029	979	node3509.doduo.os	0
+chain	wfjsp9_7.txt 5	66276185	1135	node3620.doduo.os	0
+chain	wfjsp19_4.txt 4	66276020	970	node3509.doduo.os	0
+chain	wfjsp16_10.txt 2	66275362	422	node3541.doduo.os	0
+chain	wfjsp22_8.txt 4	66276054	1004	node3514.doduo.os	0
+chain	wfjsp11_8.txt 5	66276206	1156	node3557.doduo.os	0
+chain	wfjsp22_1.txt 3	66275785	735	node3608.doduo.os	0
+chain	wfjsp21_1.txt 3	66275775	725	node3549.doduo.os	0
+chain	wfjsp18_1.txt 5	66276269	1219	node3543.doduo.os	0
+chain	wfjsp12_10.txt 4	66275956	906	node3551.doduo.os	0
+chain	wfjsp21_3.txt 3	66275777	727	node3556.doduo.os	0
+chain	wfjsp12_3.txt 4	66275949	899	node3541.doduo.os	0
+chain	wfjsp10_3.txt 5	66276191	1141	node3514.doduo.os	0
+chain	wfjsp22_10.txt 3	66275794	744	node3619.doduo.os	0
+chain	wfjsp9_4.txt 5	66276182	1132	node3615.doduo.os	0
+chain	wfjsp17_1.txt 4	66275997	947	node3509.doduo.os	0
+chain	wfjsp16_4.txt 2	66275309	416	node3547.doduo.os	0
+chain	wfjsp22_2.txt 4	66276048	998	node3514.doduo.os	0
+chain	wfjsp20_7.txt 4	66276033	983	node3509.doduo.os	0
+chain	Dauzere_06a.txt 4	66276092	1042	node3514.doduo.os	0
+chain	wfjsp12_4.txt 4	66275950	900	node3542.doduo.os	0
+chain	wfjsp18_8.txt 5	66276276	1226	node3545.doduo.os	0
+chain	wfjsp22_5.txt 4	66276051	1001	node3514.doduo.os	0
+chain	wfjsp22_9.txt 4	66276055	1005	node3518.doduo.os	0
+chain	wfjsp12_6.txt 3	66275690	640	node3558.doduo.os	0
+chain	wfjsp19_9.txt 3	66275763	713	node3522.doduo.os	0
+chain	Mk07.txt 5	66276345	1295	node3507.doduo.os	0
+chain	Mk08.txt 5	66276346	1296	node3507.doduo.os	0
+chain	wfjsp22_4.txt 3	66275788	738	node3608.doduo.os	0
+chain	Mk06.txt 5	66276344	1294	node3507.doduo.os	0
+chain	wfjsp14_7.txt 4	66275973	923	node3621.doduo.os	0
+chain	wfjsp19_10.txt 5	66276288	1238	node3555.doduo.os	0
+chain	wfjsp19_2.txt 3	66275756	706	node3507.doduo.os	0
+chain	wfjsp11_2.txt 4	66275938	888	node3514.doduo.os	0
+chain	wfjsp17_10.txt 5	66276268	1218	node3543.doduo.os	0
+chain	wfjsp17_6.txt 5	66276264	1214	node3542.doduo.os	0
+chain	wfjsp11_4.txt 4	66275940	890	node3520.doduo.os	0
+chain	wfjsp17_3.txt 5	66276261	1211	node3542.doduo.os	0
+chain	wfjsp22_10.txt 2	66275532	482	node3620.doduo.os	0
+chain	wfjsp22_6.txt 3	66275790	740	node3618.doduo.os	0
+chain	Dauzere_07a.txt 3	66275831	781	node3547.doduo.os	0
+chain	wfjsp20_8.txt 4	66276034	984	node3509.doduo.os	0
+chain	wfjsp11_6.txt 5	66276204	1154	node3547.doduo.os	0
+chain	wfjsp14_10.txt 4	66275976	926	node3507.doduo.os	0
+chain	wfjsp21_5.txt 2	66275517	467	node3619.doduo.os	0
+chain	wfjsp12_2.txt 5	66276210	1160	node3560.doduo.os	0
+chain	Dauzere_04a.txt 3	66275828	778	node3547.doduo.os	0
+chain	wfjsp17_3.txt 4	66275999	949	node3509.doduo.os	0
+chain	wfjsp9_3.txt 5	66276181	1131	node3615.doduo.os	0
+chain	wfjsp18_2.txt 5	66276270	1220	node3543.doduo.os	0
+chain	wfjsp11_1.txt 5	66276199	1149	node3542.doduo.os	0
+chain	wfjsp19_6.txt 5	66276284	1234	node3547.doduo.os	0
+chain	wfjsp12_1.txt 5	66276209	1159	node3560.doduo.os	0
+chain	wfjsp18_7.txt 5	66276275	1225	node3545.doduo.os	0
+chain	wfjsp18_3.txt 5	66276271	1221	node3543.doduo.os	0
+chain	wfjsp21_5.txt 3	66275779	729	node3561.doduo.os	0
+chain	wfjsp17_4.txt 5	66276262	1212	node3542.doduo.os	0
+chain	wfjsp20_10.txt 4	66276036	986	node3511.doduo.os	0
+chain	wfjsp18_9.txt 5	66276277	1227	node3545.doduo.os	0
+chain	wfjsp14_8.txt 3	66275712	662	node3562.doduo.os	0
+chain	wfjsp14_2.txt 5	66276230	1180	node3620.doduo.os	0
+chain	wfjsp11_8.txt 4	66275944	894	node3540.doduo.os	0
+chain	wfjsp11_7.txt 4	66275943	893	node3520.doduo.os	0
+chain	wfjsp13_3.txt 4	66275959	909	node3557.doduo.os	0
+chain	wfjsp17_1.txt 5	66276259	1209	node3542.doduo.os	0
+chain	wfjsp24_9.txt 3	66275813	763	node3513.doduo.os	0
+chain	wfjsp14_3.txt 3	66275707	657	node3561.doduo.os	0
+chain	wfjsp21_7.txt 2	66275519	469	node3619.doduo.os	0
+chain	wfjsp20_9.txt 4	66276035	985	node3509.doduo.os	0
+chain	Dauzere_01a.txt 5	66276349	1299	node3512.doduo.os	0
+chain	wfjsp14_5.txt 5	66276233	1183	node3622.doduo.os	0
+chain	wfjsp20_1.txt 5	66276289	1239	node3555.doduo.os	0
+chain	Dauzere_02a.txt 4	66276088	1038	node3514.doduo.os	0
+chain	Dauzere_08a.txt 3	66275832	782	node3555.doduo.os	0
+chain	wfjsp23_4.txt 1	66274745	224	node3621.doduo.os	0
+chain	wfjsp20_6.txt 4	66276032	982	node3509.doduo.os	0
+chain	wfjsp22_2.txt 3	66275786	736	node3608.doduo.os	0
+chain	Dauzere_11a.txt 3	66275835	785	node3555.doduo.os	0
+chain	wfjsp22_4.txt 4	66276050	1000	node3514.doduo.os	0
+chain	Dauzere_10a.txt 3	66275834	784	node3555.doduo.os	0
+chain	wfjsp11_7.txt 5	66276205	1155	node3555.doduo.os	0
+chain	Dauzere_05a.txt 5	66276353	1303	node3513.doduo.os	0
+chain	wfjsp21_1.txt 4	66276037	987	node3511.doduo.os	0
+chain	wfjsp11_3.txt 4	66275939	889	node3518.doduo.os	0
+chain	wfjsp22_1.txt 4	66276047	997	node3514.doduo.os	0
+chain	Dauzere_08a.txt 4	66276094	1044	node3541.doduo.os	0
+chain	wfjsp17_5.txt 5	66276263	1213	node3542.doduo.os	0
+chain	wfjsp21_8.txt 4	66276044	994	node3513.doduo.os	0
+chain	wfjsp19_7.txt 4	66276023	973	node3509.doduo.os	0
+chain	wfjsp24_1.txt 2	66275543	493	node3624.doduo.os	0
+chain	wfjsp22_6.txt 4	66276052	1002	node3514.doduo.os	0
+chain	wfjsp12_4.txt 5	66276212	1162	node3561.doduo.os	0
+chain	wfjsp13_7.txt 3	66275701	651	node3561.doduo.os	0
+chain	wfjsp17_2.txt 5	66276260	1210	node3542.doduo.os	0
+chain	wfjsp21_9.txt 2	66275521	471	node3619.doduo.os	0
+chain	wfjsp14_9.txt 3	66275713	663	node3562.doduo.os	0
+chain	Dauzere_07a.txt 4	66276093	1043	node3518.doduo.os	0
+chain	wfjsp12_6.txt 4	66275952	902	node3542.doduo.os	0
+chain	wfjsp19_5.txt 4	66276021	971	node3509.doduo.os	0
+chain	wfjsp21_4.txt 4	66276040	990	node3512.doduo.os	0
+chain	wfjsp19_3.txt 5	66276281	1231	node3547.doduo.os	0
+chain	wfjsp22_10.txt 4	66276056	1006	node3519.doduo.os	0
+chain	wfjsp13_7.txt 4	66275963	913	node3561.doduo.os	0
+chain	wfjsp20_4.txt 5	66276292	1242	node3556.doduo.os	0
+chain	Mk09.txt 3	66275823	773	node3514.doduo.os	0
+chain	wfjsp22_3.txt 3	66275787	737	node3608.doduo.os	0
+chain	wfjsp11_2.txt 5	66276200	1150	node3542.doduo.os	0
+chain	wfjsp19_4.txt 5	66276282	1232	node3547.doduo.os	0
+chain	wfjsp14_8.txt 4	66275974	924	node3625.doduo.os	0
+chain	wfjsp12_8.txt 4	66275954	904	node3542.doduo.os	0
+chain	wfjsp12_5.txt 5	66276213	1163	node3561.doduo.os	0
+chain	wfjsp11_3.txt 5	66276201	1151	node3542.doduo.os	0
+chain	wfjsp13_1.txt 4	66275957	907	node3555.doduo.os	0
+chain	wfjsp19_1.txt 5	66276279	1229	node3546.doduo.os	0
+chain	wfjsp16_3.txt 2	66275308	415	node3540.doduo.os	0
+chain	wfjsp12_7.txt 4	66275953	903	node3542.doduo.os	0
+chain	wfjsp21_8.txt 3	66275782	732	node3601.doduo.os	0
+chain	wfjsp24_1.txt 3	66275805	755	node3507.doduo.os	0
+chain	wfjsp21_2.txt 2	66275514	464	node3619.doduo.os	0
+chain	wfjsp16_8.txt 2	66275331	420	node3555.doduo.os	0
+chain	wfjsp24_2.txt 3	66275806	756	node3507.doduo.os	0
+chain	Mk10.txt 2	66275562	512	node3513.doduo.os	0
+chain	wfjsp13_8.txt 3	66275702	652	node3561.doduo.os	0
+chain	wfjsp21_1.txt 5	66276299	1249	node3558.doduo.os	0
+chain	wfjsp17_9.txt 5	66276267	1217	node3542.doduo.os	0
+chain	wfjsp22_9.txt 5	66276317	1267	node3625.doduo.os	0
+chain	wfjsp22_5.txt 5	66276313	1263	node3619.doduo.os	0
+chain	wfjsp11_4.txt 5	66276202	1152	node3543.doduo.os	0
+chain	wfjsp20_7.txt 5	66276295	1245	node3556.doduo.os	0
+chain	wfjsp20_2.txt 5	66276290	1240	node3555.doduo.os	0
+chain	wfjsp14_4.txt 3	66275708	658	node3561.doduo.os	0
+chain	wfjsp21_3.txt 4	66276039	989	node3511.doduo.os	0
+chain	wfjsp11_10.txt 5	66276208	1158	node3558.doduo.os	0
+chain	wfjsp19_3.txt 4	66276019	969	node3509.doduo.os	0
+chain	wfjsp19_2.txt 4	66276018	968	node3509.doduo.os	0
+chain	wfjsp22_7.txt 2	66275529	479	node3620.doduo.os	0
+chain	Dauzere_09a.txt 4	66276095	1045	node3541.doduo.os	0
+chain	Mk10.txt 3	66275824	774	node3544.doduo.os	0
+chain	Dauzere_06a.txt 5	66276354	1304	node3513.doduo.os	0
+chain	wfjsp20_8.txt 5	66276296	1246	node3556.doduo.os	0
+chain	wfjsp14_6.txt 3	66275710	660	node3561.doduo.os	0
+chain	wfjsp24_3.txt 2	66275545	495	node3624.doduo.os	0
+chain	wfjsp21_8.txt 2	66275520	470	node3619.doduo.os	0
+chain	wfjsp13_6.txt 4	66275962	912	node3560.doduo.os	0
+chain	wfjsp16_2.txt 3	66275726	676	node3620.doduo.os	0
+chain	wfjsp14_9.txt 4	66275975	925	node3627.doduo.os	0
+chain	wfjsp20_9.txt 5	66276297	1247	node3556.doduo.os	0
+chain	wfjsp12_3.txt 5	66276211	1161	node3561.doduo.os	0
+chain	wfjsp22_3.txt 4	66276049	999	node3514.doduo.os	0
+chain	wfjsp19_8.txt 5	66276286	1236	node3555.doduo.os	0
+chain	wfjsp11_5.txt 5	66276203	1153	node3544.doduo.os	0
+chain	Dauzere_05a.txt 4	66276091	1041	node3514.doduo.os	0
+chain	wfjsp21_7.txt 3	66275781	731	node3601.doduo.os	0
+chain	wfjsp13_5.txt 3	66275699	649	node3561.doduo.os	0
+chain	wfjsp15_8.txt 2	66275271	410	node3518.doduo.os	0
+chain	wfjsp20_5.txt 5	66276293	1243	node3556.doduo.os	0
+chain	wfjsp12_10.txt 5	66276218	1168	node3563.doduo.os	0
+chain	wfjsp24_1.txt 4	66276067	1017	node3546.doduo.os	0
+chain	wfjsp17_7.txt 5	66276265	1215	node3542.doduo.os	0
+chain	wfjsp20_3.txt 5	66276291	1241	node3556.doduo.os	0
+chain	Dauzere_01a.txt 4	66276087	1037	node3514.doduo.os	0
+chain	wfjsp22_7.txt 3	66275791	741	node3618.doduo.os	0
+chain	Dauzere_02a.txt 5	66276350	1300	node3513.doduo.os	0
+chain	wfjsp11_5.txt 4	66275941	891	node3520.doduo.os	0
+chain	wfjsp13_4.txt 3	66275698	648	node3561.doduo.os	0
+chain	wfjsp21_6.txt 2	66275518	468	node3619.doduo.os	0
+chain	wfjsp22_1.txt 5	66276309	1259	node3618.doduo.os	0
+chain	wfjsp12_6.txt 5	66276214	1164	node3561.doduo.os	0
+chain	wfjsp20_10.txt 5	66276298	1248	node3557.doduo.os	0
+chain	Dauzere_10a.txt 4	66276096	1046	node3541.doduo.os	0
+chain	wfjsp19_9.txt 5	66276287	1237	node3555.doduo.os	0
+chain	wfjsp21_5.txt 4	66276041	991	node3513.doduo.os	0
+chain	wfjsp15_4.txt 2	66275216	406	node3620.doduo.os	0
+chain	wfjsp16_7.txt 2	66275330	419	node3546.doduo.os	0
+chain	Dauzere_11a.txt 4	66276097	1047	node3542.doduo.os	0
+chain	wfjsp21_2.txt 3	66275776	726	node3549.doduo.os	0
+chain	wfjsp19_5.txt 5	66276283	1233	node3547.doduo.os	0
+chain	wfjsp12_9.txt 5	66276217	1167	node3563.doduo.os	0
+chain	wfjsp13_10.txt 5	66276228	1178	node3617.doduo.os	0
+chain	wfjsp14_1.txt 4	66275967	917	node3562.doduo.os	0
+chain	Dauzere_07a.txt 5	66276355	1305	node3513.doduo.os	0
+chain	wfjsp12_7.txt 5	66276215	1165	node3561.doduo.os	0
+chain	wfjsp13_3.txt 5	66276221	1171	node3601.doduo.os	0
+chain	wfjsp20_6.txt 5	66276294	1244	node3556.doduo.os	0
+chain	wfjsp21_9.txt 5	66276307	1257	node3615.doduo.os	0
+chain	wfjsp14_7.txt 5	66276235	1185	node3624.doduo.os	0
+chain	wfjsp21_6.txt 3	66275780	730	node3601.doduo.os	0
+chain	wfjsp14_8.txt 5	66276236	1186	node3627.doduo.os	0
+chain	wfjsp13_7.txt 5	66276225	1175	node3617.doduo.os	0
+chain	Mk10.txt 4	66276086	1036	node3514.doduo.os	0
+chain	wfjsp22_6.txt 5	66276314	1264	node3624.doduo.os	0
+chain	wfjsp16_6.txt 2	66275329	418	node3511.doduo.os	0
+chain	wfjsp11_9.txt 5	66276207	1157	node3558.doduo.os	0
+chain	wfjsp22_8.txt 5	66276316	1266	node3624.doduo.os	0
+chain	wfjsp22_2.txt 5	66276310	1260	node3618.doduo.os	0
+chain	wfjsp23_10.txt 1	66274751	230	node3549.doduo.os	0
+chain	wfjsp13_9.txt 5	66276227	1177	node3617.doduo.os	0
+chain	Dauzere_04a.txt 5	66276352	1302	node3513.doduo.os	0
+chain	wfjsp13_2.txt 4	66275958	908	node3557.doduo.os	0
+chain	wfjsp19_9.txt 4	66276025	975	node3509.doduo.os	0
+chain	wfjsp23_6.txt 2	66275538	488	node3622.doduo.os	0
+chain	wfjsp21_4.txt 5	66276302	1252	node3559.doduo.os	0
+chain	wfjsp14_10.txt 5	66276238	1188	node3507.doduo.os	0
+chain	wfjsp16_1.txt 3	66275725	675	node3619.doduo.os	0
+chain	Dauzere_12a.txt 3	66275836	786	node3558.doduo.os	0
+chain	wfjsp16_9.txt 3	66275733	683	node3620.doduo.os	0
+chain	wfjsp14_3.txt 4	66275969	919	node3562.doduo.os	0
+chain	wfjsp22_10.txt 5	66276318	1268	node3625.doduo.os	0
+chain	wfjsp16_6.txt 3	66275730	680	node3620.doduo.os	0
+chain	wfjsp16_1.txt 2	66275306	413	node3511.doduo.os	0
+chain	wfjsp13_4.txt 4	66275960	910	node3557.doduo.os	0
+chain	wfjsp14_3.txt 5	66276231	1181	node3622.doduo.os	0
+chain	wfjsp24_2.txt 4	66276068	1018	node3546.doduo.os	0
+chain	wfjsp12_8.txt 5	66276216	1166	node3563.doduo.os	0
+chain	wfjsp16_5.txt 2	66275310	417	node3547.doduo.os	0
+chain	wfjsp24_6.txt 2	66275548	498	node3506.doduo.os	0
+chain	Mk09.txt 2	66275561	511	node3507.doduo.os	0
+chain	wfjsp21_10.txt 5	66276308	1258	node3615.doduo.os	0
+chain	wfjsp21_9.txt 4	66276045	995	node3514.doduo.os	0
+chain	wfjsp13_5.txt 4	66275961	911	node3557.doduo.os	0
+chain	wfjsp24_10.txt 2	66275552	502	node3506.doduo.os	0
+chain	wfjsp13_8.txt 5	66276226	1176	node3617.doduo.os	0
+chain	Dauzere_03a.txt 5	66276351	1301	node3513.doduo.os	0
+chain	wfjsp24_5.txt 2	66275547	497	node3624.doduo.os	0
+chain	wfjsp22_7.txt 4	66276053	1003	node3514.doduo.os	0
+chain	wfjsp21_9.txt 3	66275783	733	node3601.doduo.os	0
+chain	wfjsp21_2.txt 4	66276038	988	node3511.doduo.os	0
+chain	wfjsp13_2.txt 3	66275696	646	node3561.doduo.os	0
+chain	wfjsp24_7.txt 3	66275811	761	node3513.doduo.os	0
+chain	wfjsp24_6.txt 3	66275810	760	node3513.doduo.os	0
+chain	wfjsp13_8.txt 4	66275964	914	node3561.doduo.os	0
+chain	Dauzere_09a.txt 5	66276357	1307	node3513.doduo.os	0
+chain	wfjsp21_7.txt 5	66276305	1255	node3561.doduo.os	0
+chain	wfjsp15_1.txt 2	66275213	403	node3514.doduo.os	0
+chain	wfjsp14_6.txt 4	66275972	922	node3618.doduo.os	0
+chain	wfjsp13_9.txt 3	66275703	653	node3561.doduo.os	0
+chain	wfjsp21_7.txt 4	66276043	993	node3513.doduo.os	0
+chain	wfjsp13_10.txt 3	66275704	654	node3561.doduo.os	0
+chain	wfjsp16_3.txt 3	66275727	677	node3620.doduo.os	0
+chain	Dauzere_12a.txt 4	66276098	1048	node3542.doduo.os	0
+chain	wfjsp24_9.txt 4	66276075	1025	node3560.doduo.os	0
+chain	wfjsp21_3.txt 5	66276301	1251	node3559.doduo.os	0
+chain	wfjsp14_1.txt 5	66276229	1179	node3617.doduo.os	0
+chain	wfjsp14_9.txt 5	66276237	1187	node3507.doduo.os	0
+chain	wfjsp13_5.txt 5	66276223	1173	node3615.doduo.os	0
+chain	wfjsp21_8.txt 5	66276306	1256	node3608.doduo.os	0
+chain	wfjsp24_3.txt 3	66275807	757	node3507.doduo.os	0
+chain	wfjsp19_7.txt 5	66276285	1235	node3555.doduo.os	0
+chain	wfjsp13_10.txt 4	66275966	916	node3561.doduo.os	0
+chain	wfjsp16_6.txt 5	66276254	1204	node3540.doduo.os	0
+chain	wfjsp22_4.txt 5	66276312	1262	node3618.doduo.os	0
+chain	Mk10.txt 5	66276348	1298	node3507.doduo.os	0
+chain	wfjsp13_1.txt 5	66276219	1169	node3563.doduo.os	0
+chain	wfjsp13_4.txt 5	66276222	1172	node3615.doduo.os	0
+chain	wfjsp16_4.txt 3	66275728	678	node3620.doduo.os	0
+chain	Dauzere_11a.txt 5	66276359	1309	node3513.doduo.os	0
+chain	wfjsp16_5.txt 3	66275729	679	node3620.doduo.os	0
+chain	wfjsp13_9.txt 4	66275965	915	node3561.doduo.os	0
+chain	wfjsp24_9.txt 5	66276337	1287	node3507.doduo.os	0
+chain	wfjsp22_3.txt 5	66276311	1261	node3618.doduo.os	0
+chain	wfjsp16_8.txt 4	66275994	944	node3509.doduo.os	0
+chain	Mk09.txt 5	66276347	1297	node3507.doduo.os	0
+chain	wfjsp24_3.txt 4	66276069	1019	node3546.doduo.os	0
+chain	wfjsp23_6.txt 3	66275800	750	node3624.doduo.os	0
+chain	wfjsp13_6.txt 5	66276224	1174	node3617.doduo.os	0
+chain	wfjsp14_4.txt 4	66275970	920	node3562.doduo.os	0
+chain	wfjsp15_7.txt 2	66275270	409	node3511.doduo.os	0
+chain	wfjsp15_2.txt 2	66275214	404	node3514.doduo.os	0
+chain	wfjsp24_4.txt 2	66275546	496	node3624.doduo.os	0
+chain	Dauzere_08a.txt 5	66276356	1306	node3513.doduo.os	0
+chain	wfjsp16_7.txt 4	66275993	943	node3509.doduo.os	0
+chain	Mk09.txt 4	66276085	1035	node3514.doduo.os	0
+chain	wfjsp21_6.txt 4	66276042	992	node3513.doduo.os	0
+chain	wfjsp21_5.txt 5	66276303	1253	node3559.doduo.os	0
+chain	wfjsp16_9.txt 4	66275995	945	node3509.doduo.os	0
+chain	wfjsp22_7.txt 5	66276315	1265	node3624.doduo.os	0
+chain	wfjsp15_6.txt 2	66275239	408	node3622.doduo.os	0
+chain	wfjsp16_2.txt 4	66275988	938	node3509.doduo.os	0
+chain	wfjsp16_2.txt 5	66276250	1200	node3513.doduo.os	0
+chain	wfjsp16_7.txt 3	66275731	681	node3620.doduo.os	0
+chain	wfjsp19_2.txt 5	66276280	1230	node3546.doduo.os	0
+chain	wfjsp24_10.txt 3	66275814	764	node3513.doduo.os	0
+chain	Dauzere_10a.txt 5	66276358	1308	node3513.doduo.os	0
+chain	wfjsp23_3.txt 3	66275797	747	node3619.doduo.os	0
+chain	wfjsp16_5.txt 5	66276253	1203	node3513.doduo.os	0
+chain	wfjsp24_8.txt 3	66275812	762	node3513.doduo.os	0
+chain	wfjsp24_5.txt 3	66275809	759	node3507.doduo.os	0
+chain	wfjsp24_7.txt 4	66276073	1023	node3555.doduo.os	0
+chain	wfjsp24_5.txt 4	66276071	1021	node3546.doduo.os	0
+chain	wfjsp14_6.txt 5	66276234	1184	node3622.doduo.os	0
+chain	wfjsp16_1.txt 5	66276249	1199	node3513.doduo.os	0
+chain	wfjsp24_10.txt 4	66276076	1026	node3561.doduo.os	0
+chain	wfjsp16_10.txt 3	66275734	684	node3620.doduo.os	0
+chain	Dauzere_12a.txt 5	66273394	1310	node3513.doduo.os	0
+chain	wfjsp24_2.txt 5	66276330	1280	node3507.doduo.os	0
+chain	wfjsp14_4.txt 5	66276232	1182	node3622.doduo.os	0
+chain	wfjsp16_1.txt 4	66275987	937	node3509.doduo.os	0
+chain	wfjsp21_6.txt 5	66276304	1254	node3561.doduo.os	0
+chain	wfjsp23_1.txt 3	66275795	745	node3619.doduo.os	0
+chain	wfjsp24_8.txt 2	66275550	500	node3506.doduo.os	0
+chain	wfjsp16_4.txt 4	66275990	940	node3509.doduo.os	0
+chain	wfjsp24_4.txt 3	66275808	758	node3507.doduo.os	0
+chain	wfjsp16_6.txt 4	66275992	942	node3509.doduo.os	0
+chain	wfjsp16_4.txt 5	66276252	1202	node3513.doduo.os	0
+chain	wfjsp15_8.txt 3	66275722	672	node3601.doduo.os	0
+chain	wfjsp16_8.txt 5	66276256	1206	node3540.doduo.os	0
+chain	wfjsp13_2.txt 5	66276220	1170	node3601.doduo.os	0
+chain	wfjsp16_9.txt 5	66276257	1207	node3540.doduo.os	0
+chain	wfjsp24_4.txt 4	66276070	1020	node3546.doduo.os	0
+chain	wfjsp15_3.txt 2	66275215	405	node3564.doduo.os	0
+chain	wfjsp24_7.txt 2	66275549	499	node3506.doduo.os	0
+chain	wfjsp23_9.txt 2	66275541	491	node3624.doduo.os	0
+chain	wfjsp16_3.txt 4	66275989	939	node3509.doduo.os	0
+chain	wfjsp23_6.txt 4	66276062	1012	node3543.doduo.os	0
+chain	wfjsp24_10.txt 5	66276338	1288	node3507.doduo.os	0
+chain	wfjsp21_2.txt 5	66276300	1250	node3559.doduo.os	0
+chain	wfjsp23_1.txt 4	66276057	1007	node3542.doduo.os	0
+chain	wfjsp24_8.txt 4	66276074	1024	node3557.doduo.os	0
+chain	wfjsp24_7.txt 5	66276335	1285	node3507.doduo.os	0
+chain	wfjsp16_7.txt 5	66276255	1205	node3540.doduo.os	0
+chain	wfjsp23_3.txt 4	66276059	1009	node3543.doduo.os	0
+chain	wfjsp23_8.txt 2	66275540	490	node3624.doduo.os	0
+chain	wfjsp24_1.txt 5	66276329	1279	node3507.doduo.os	0
+chain	wfjsp16_5.txt 4	66275991	941	node3509.doduo.os	0
+chain	wfjsp15_1.txt 4	66275977	927	node3507.doduo.os	0
+chain	wfjsp24_6.txt 5	66276334	1284	node3507.doduo.os	0
+chain	wfjsp24_6.txt 4	66276072	1022	node3549.doduo.os	0
+chain	wfjsp16_10.txt 4	66275996	946	node3509.doduo.os	0
+chain	wfjsp15_8.txt 4	66275984	934	node3509.doduo.os	0
+chain	wfjsp23_1.txt 2	66275533	483	node3620.doduo.os	0
+chain	wfjsp15_10.txt 2	66275273	412	node3620.doduo.os	0
+chain	wfjsp24_8.txt 5	66276336	1286	node3507.doduo.os	0
+chain	wfjsp24_3.txt 5	66276331	1281	node3507.doduo.os	0
+chain	wfjsp23_1.txt 5	66276319	1269	node3625.doduo.os	0
+chain	wfjsp23_8.txt 4	66276064	1014	node3545.doduo.os	0
+chain	wfjsp15_1.txt 5	66276239	1189	node3507.doduo.os	0
+chain	wfjsp23_3.txt 2	66275535	485	node3620.doduo.os	0
+chain	wfjsp16_10.txt 5	66276258	1208	node3542.doduo.os	0
+chain	wfjsp15_2.txt 5	66276240	1190	node3507.doduo.os	0
+chain	wfjsp23_3.txt 5	66276321	1271	node3627.doduo.os	0
+chain	wfjsp23_5.txt 2	66275537	487	node3622.doduo.os	0
+chain	wfjsp15_8.txt 5	66276246	1196	node3507.doduo.os	0
+chain	wfjsp16_3.txt 5	66276251	1201	node3513.doduo.os	0
+chain	wfjsp15_3.txt 4	66275979	929	node3509.doduo.os	0
+chain	wfjsp23_8.txt 3	66275802	752	node3506.doduo.os	0
+chain	wfjsp15_7.txt 3	66275721	671	node3601.doduo.os	0
+chain	wfjsp23_6.txt 5	66276324	1274	node3506.doduo.os	0
+chain	wfjsp23_2.txt 2	66275534	484	node3620.doduo.os	0
+chain	wfjsp15_9.txt 2	66275272	411	node3563.doduo.os	0
+chain	wfjsp24_5.txt 5	66276333	1283	node3507.doduo.os	0
+chain	wfjsp23_7.txt 2	66275539	489	node3622.doduo.os	0
+chain	wfjsp24_4.txt 5	66276332	1282	node3507.doduo.os	0
+chain	wfjsp15_6.txt 3	66275720	670	node3601.doduo.os	0
+chain	wfjsp15_10.txt 3	66275724	674	node3617.doduo.os	0
+chain	wfjsp15_7.txt 4	66275983	933	node3509.doduo.os	0
+chain	wfjsp15_2.txt 3	66275716	666	node3601.doduo.os	0
+chain	wfjsp23_4.txt 2	66275536	486	node3622.doduo.os	0
+chain	wfjsp23_9.txt 5	66276327	1277	node3507.doduo.os	0
+chain	wfjsp23_4.txt 3	66275798	748	node3620.doduo.os	0
+chain	wfjsp23_5.txt 3	66275799	749	node3624.doduo.os	0
+chain	wfjsp15_5.txt 2	66275238	407	node3505.doduo.os	0
+chain	wfjsp23_2.txt 3	66275796	746	node3619.doduo.os	0
+chain	wfjsp15_4.txt 3	66275718	668	node3601.doduo.os	0
+chain	wfjsp23_7.txt 5	66276325	1275	node3506.doduo.os	0
+chain	wfjsp23_2.txt 5	66276320	1270	node3627.doduo.os	0
+chain	wfjsp23_9.txt 3	66275803	753	node3506.doduo.os	0
+chain	wfjsp23_7.txt 3	66275801	751	node3506.doduo.os	0
+chain	wfjsp15_6.txt 5	66276244	1194	node3507.doduo.os	0
+chain	wfjsp15_2.txt 4	66275978	928	node3509.doduo.os	0
+chain	wfjsp23_5.txt 4	66276061	1011	node3543.doduo.os	0
+chain	wfjsp15_10.txt 4	66275986	936	node3509.doduo.os	0
+chain	wfjsp15_3.txt 3	66275717	667	node3601.doduo.os	0
+chain	wfjsp15_4.txt 5	66276242	1192	node3507.doduo.os	0
+chain	wfjsp23_2.txt 4	66276058	1008	node3542.doduo.os	0
+chain	wfjsp23_9.txt 4	66276065	1015	node3545.doduo.os	0
+chain	wfjsp15_7.txt 5	66276245	1195	node3507.doduo.os	0
+chain	wfjsp15_5.txt 3	66275719	669	node3601.doduo.os	0
+chain	wfjsp15_1.txt 3	66275715	665	node3563.doduo.os	0
+chain	wfjsp23_7.txt 4	66276063	1013	node3543.doduo.os	0
+chain	wfjsp15_3.txt 5	66276241	1191	node3507.doduo.os	0
+chain	wfjsp23_4.txt 5	66276322	1272	node3627.doduo.os	0
+chain	wfjsp23_10.txt 3	66275804	754	node3506.doduo.os	0
+chain	wfjsp23_10.txt 4	66276066	1016	node3546.doduo.os	0
+chain	wfjsp23_10.txt 2	66275542	492	node3624.doduo.os	0
+chain	wfjsp15_9.txt 4	66275985	935	node3509.doduo.os	0
+chain	wfjsp15_5.txt 4	66275981	931	node3509.doduo.os	0
+chain	wfjsp15_9.txt 3	66275723	673	node3601.doduo.os	0
+chain	wfjsp15_4.txt 4	66275980	930	node3509.doduo.os	0
+chain	wfjsp15_10.txt 5	66276248	1198	node3507.doduo.os	0
+chain	wfjsp23_5.txt 5	66276323	1273	node3506.doduo.os	0
+chain	wfjsp23_8.txt 5	66276326	1276	node3506.doduo.os	0
+chain	wfjsp15_5.txt 5	66276243	1193	node3507.doduo.os	0
+chain	wfjsp15_6.txt 4	66275982	932	node3509.doduo.os	0
+chain	wfjsp23_10.txt 5	66276328	1278	node3507.doduo.os	0
+chain	wfjsp23_4.txt 4	66276060	1010	node3543.doduo.os	0
+chain	wfjsp15_9.txt 5	66276247	1197	node3507.doduo.os	0

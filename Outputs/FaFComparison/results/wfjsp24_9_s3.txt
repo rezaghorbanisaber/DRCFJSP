@@ -1,0 +1,7 @@
+FaF wfjsp24_9.txt 3 1270 30.8072 
+FaFM wfjsp24_9.txt 3 1291 35.5718 
+FaFMJ wfjsp24_9.txt 3 1290 216.106 
+FaFMx2 wfjsp24_9.txt 3 1269 151.637 
+TS@FaF wfjsp24_9.txt 3 1262 30.8395 
+TS@FaFM wfjsp24_9.txt 3 1262 35.5997 
+TSN1@FaFM wfjsp24_9.txt 3 1289 35.5967 

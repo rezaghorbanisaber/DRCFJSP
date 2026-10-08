@@ -1,0 +1,7 @@
+FaF wfjsp23_6.txt 2 1862 54.1882 
+FaFM wfjsp23_6.txt 2 1879 30.1108 
+FaFMJ wfjsp23_6.txt 2 1869 369.314 
+FaFMx2 wfjsp23_6.txt 2 1860 310.203 
+TS@FaF wfjsp23_6.txt 2 1871 54.2518 
+TS@FaFM wfjsp23_6.txt 2 1876 30.1733 
+TSN1@FaFM wfjsp23_6.txt 2 1898 30.1533 

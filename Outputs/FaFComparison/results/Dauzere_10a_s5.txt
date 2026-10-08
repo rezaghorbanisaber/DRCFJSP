@@ -1,0 +1,7 @@
+FaF Dauzere_10a.txt 5 3066 33.8817 
+FaFM Dauzere_10a.txt 5 3004 69.5791 
+FaFMJ Dauzere_10a.txt 5 3019 64.9383 
+FaFMx2 Dauzere_10a.txt 5 3033 385.507 
+TS@FaF Dauzere_10a.txt 5 2966 33.8965 
+TS@FaFM Dauzere_10a.txt 5 2954 69.5939 
+TSN1@FaFM Dauzere_10a.txt 5 3176 69.5918 

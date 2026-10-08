@@ -1,0 +1,7 @@
+FaF wfjsp18_8.txt 5 1014 7.22103 
+FaFM wfjsp18_8.txt 5 1000 25.9608 
+FaFMJ wfjsp18_8.txt 5 1012 70.4668 
+FaFMx2 wfjsp18_8.txt 5 1010 88.9268 
+TS@FaF wfjsp18_8.txt 5 1008 7.22822 
+TS@FaFM wfjsp18_8.txt 5 1006 25.9668 
+TSN1@FaFM wfjsp18_8.txt 5 1027 25.9652 

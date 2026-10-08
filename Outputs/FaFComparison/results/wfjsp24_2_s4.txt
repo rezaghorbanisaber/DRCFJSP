@@ -1,0 +1,7 @@
+FaF wfjsp24_2.txt 4 1249 21.5232 
+FaFM wfjsp24_2.txt 4 1249 36.499 
+FaFMJ wfjsp24_2.txt 4 1260 255.263 
+FaFMx2 wfjsp24_2.txt 4 1241 279.717 
+TS@FaF wfjsp24_2.txt 4 1234 21.5506 
+TS@FaFM wfjsp24_2.txt 4 1234 36.5268 
+TSN1@FaFM wfjsp24_2.txt 4 1258 36.5133 

@@ -1,0 +1,7 @@
+FaF wfjsp14_5.txt 5 728 21.5978 
+FaFM wfjsp14_5.txt 5 730 28.0195 
+FaFMJ wfjsp14_5.txt 5 755 73.1587 
+FaFMx2 wfjsp14_5.txt 5 711 150.788 
+TS@FaF wfjsp14_5.txt 5 733 21.6171 
+TS@FaFM wfjsp14_5.txt 5 733 28.0367 
+TSN1@FaFM wfjsp14_5.txt 5 730 28.0282 

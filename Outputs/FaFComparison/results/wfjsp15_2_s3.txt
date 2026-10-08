@@ -1,0 +1,7 @@
+FaF wfjsp15_2.txt 3 1349 92.6855 
+FaFM wfjsp15_2.txt 3 1359 86.7974 
+FaFMJ wfjsp15_2.txt 3 1331 684.878 
+FaFMx2 wfjsp15_2.txt 3 1326 520.074 
+TS@FaF wfjsp15_2.txt 3 1362 92.727 
+TS@FaFM wfjsp15_2.txt 3 1362 86.8521 
+TSN1@FaFM wfjsp15_2.txt 3 1376 86.8185 

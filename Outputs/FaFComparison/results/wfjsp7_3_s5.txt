@@ -1,0 +1,7 @@
+FaF wfjsp7_3.txt 5 1172 5.53336 
+FaFM wfjsp7_3.txt 5 1148 13.658 
+FaFMJ wfjsp7_3.txt 5 1208 16.814 
+FaFMx2 wfjsp7_3.txt 5 1151 103.607 
+TS@FaF wfjsp7_3.txt 5 1174 5.53644 
+TS@FaFM wfjsp7_3.txt 5 1170 13.6619 
+TSN1@FaFM wfjsp7_3.txt 5 1159 13.6596 

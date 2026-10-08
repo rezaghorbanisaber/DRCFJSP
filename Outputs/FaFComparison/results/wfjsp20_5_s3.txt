@@ -1,0 +1,7 @@
+FaF wfjsp20_5.txt 3 1066 21.0369 
+FaFM wfjsp20_5.txt 3 1081 9.03613 
+FaFMJ wfjsp20_5.txt 3 1073 177.541 
+FaFMx2 wfjsp20_5.txt 3 1072 80.6876 
+TS@FaF wfjsp20_5.txt 3 1078 21.0517 
+TS@FaFM wfjsp20_5.txt 3 1079 9.0476 
+TSN1@FaFM wfjsp20_5.txt 3 1090 9.04222 

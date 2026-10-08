@@ -1,0 +1,7 @@
+FaF wfjsp22_3.txt 1 1030 52.9426 
+FaFM wfjsp22_3.txt 1 1049 37.6649 
+FaFMJ wfjsp22_3.txt 1 1027 222.307 
+FaFMx2 wfjsp22_3.txt 1 1027 218.414 
+TS@FaF wfjsp22_3.txt 1 1024 52.9655 
+TS@FaFM wfjsp22_3.txt 1 1034 37.6823 
+TSN1@FaFM wfjsp22_3.txt 1 1052 37.6805 

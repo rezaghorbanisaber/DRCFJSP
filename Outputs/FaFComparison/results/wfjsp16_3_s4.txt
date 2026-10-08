@@ -1,0 +1,7 @@
+FaF wfjsp16_3.txt 4 1109 23.4263 
+FaFM wfjsp16_3.txt 4 1104 87.3007 
+FaFMJ wfjsp16_3.txt 4 1112 430.484 
+FaFMx2 wfjsp16_3.txt 4 1091 318.577 
+TS@FaF wfjsp16_3.txt 4 1121 23.4606 
+TS@FaFM wfjsp16_3.txt 4 1111 87.3365 
+TSN1@FaFM wfjsp16_3.txt 4 1111 87.3217 
